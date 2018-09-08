@@ -18,8 +18,8 @@
 Course materials and teaching performed by
 - [Elena Voita](https://research.yandex.com/lib/people/610744) - course admin, lectures, seminars, homeworks
 - [Boris Kovarsky](https://github.com/kovarsky) - lectures, seminars, homeworks
-- [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homewords
-- [Alexander Panin](https://github.com/justheuristic) - lectures, seminars, homewords
+- [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homeworks
+- [Just Heuristic](https://github.com/justheuristic) - lectures, seminars, homeworks
 - [David Talbot](https://www.researchgate.net/scientific-contributions/11410334_David_Talbot) - lectures, seminars, homeworks
 
 
