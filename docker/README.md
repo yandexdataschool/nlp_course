@@ -22,7 +22,9 @@ For example,
 `docker run -it -v /Users/mittov/Documents/shad/semester4/ -p 8888:8888 justheuristic/nlp_course sh ../run_jupyter.sh`
 
 
-Then you can access your jupyter in a browser at `localhost:<local_port>/?token=<token_you_see_in_container_logs>`, e.g. `localhost:8888/?token=ad1a5a0aab43efb47a9a805388fcf508d0b5f84a16e4542b&token=ad1a5a0aab43efb47a9a805388fcf508d0b5f84a16e4542b`
+Then you can access your jupyter in a browser at `localhost:<local_port>`. 
+
+If it asks you to enter token, you will find one in container logs, e.g. `localhost:8888/?token=ad1a5a0aab43efb47a9a805388fcf508d0b5f84a16e4542b&token=ad1a5a0aab43efb47a9a805388fcf508d0b5f84a16e4542b`.
 
 ## Manual
 Build container
@@ -39,4 +41,4 @@ examples:
 `$ docker run --rm -it -v /Users/mittov/Documents/shad/semester4/:/notebooks -p 8888:8888 nlp`
 
 Copy the token from console and run
-http://localhost:8888/?token=<token>
+http://localhost:8888/ (if it asks for token, see "native")
