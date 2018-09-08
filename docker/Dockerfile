@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-LABEL maintainer "Alexander Panin <justheuristic@gmail.com>, Dmitry Mittov <mittov@gmail.com>"
+LABEL maintainer "NLP Team <no@ema.il>"
 
 
 RUN echo "deb http://archive.ubuntu.com/ubuntu trusty-backports main restricted universe multiverse" >> /etc/apt/sources.list && \
