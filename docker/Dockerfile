@@ -31,6 +31,7 @@ RUN pip install --upgrade pip==9.0.3 && \
                            graphviz \
                            nltk \
                            gensim \
+                           bokeh \
                            editdistance \
                            matplotlib \
                            seaborn && \
@@ -47,6 +48,7 @@ RUN pip3 install --upgrade pip==9.0.3 && \
                            graphviz \
                            nltk \
                            gensim \
+                           bokeh \
                            editdistance \
                            matplotlib \
                            seaborn && \
