@@ -1,12 +1,10 @@
 # YSDA Natural Language Processing course
-
-
-# General info
 * Lecture and seminar materials for each week are in ./week* folders
-* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
+* Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master) __TODO__
 * Telegram [chat room] __TODO__ (russian).
 * YSDA deadlines & admin stuff can be found at __TODO__ (ysda students only).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
+* Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/h9BfX4Gz/issues/1).
 
 
 # Syllabus
@@ -22,4 +20,3 @@ Course materials and teaching performed by
 - [Boris Kovarsky](https://github.com/kovarsky) - lectures, seminars, homeworks
 - [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homewords
 - [David Talbot](https://www.researchgate.net/scientific-contributions/11410334_David_Talbot) - lectures, seminars
-

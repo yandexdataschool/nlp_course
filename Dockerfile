@@ -1,5 +1,5 @@
 FROM andrewosh/binder-base
-MAINTAINER YSDA <jheuristic@yandex-team.ru>
+MAINTAINER NLP Team <no@ema.il>
 USER root
 
 RUN echo "deb http://archive.ubuntu.com/ubuntu trusty-backports main restricted universe multiverse" >> /etc/apt/sources.list
@@ -18,8 +18,8 @@ RUN pip install --upgrade pip==9.0.3
 RUN pip install --upgrade --ignore-installed setuptools  #fix https://github.com/tensorflow/tensorflow/issues/622
 RUN pip install --upgrade numpy scipy pandas sklearn tqdm joblib graphviz bokeh python-igraph
 RUN pip install --upgrade nltk gensim editdistance 
-RUN pip install --upgrade http://download.pytorch.org/whl/cpu/torch-0.4.0-cp27-cp27mu-linux_x86_64.whl 
-RUN pip install --upgrade torchvision 
+#RUN pip install --upgrade http://download.pytorch.org/whl/cpu/torch-0.4.0-cp27-cp27mu-linux_x86_64.whl 
+#RUN pip install --upgrade torchvision 
 
 
 
@@ -31,9 +31,9 @@ RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade --ignore-installe
 RUN bash -c "conda update -y conda && source activate python3 && conda uninstall -y libgcc && source deactivate"
 
 RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade numpy scipy pandas sklearn tqdm joblib graphviz bokeh python-igraph
-RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade nltk gensim editdistance 
-RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl 
-RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade torchvision
+RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade nltk gensim editdistance
+#RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade http://download.pytorch.org/whl/cpu/torch-0.4.0-cp35-cp35m-linux_x86_64.whl 
+#RUN /home/main/anaconda/envs/python3/bin/pip install --upgrade torchvision
 
 
 #install TF after everything else not to break python3's pyglet with python2's tensorflow
