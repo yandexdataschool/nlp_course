@@ -9,10 +9,16 @@
 
 # Syllabus
 - __week01__ Embeddings
-  - Lecture: Word embeddings
+  - Lecture: Word embeddings. Distributional semantics, LSA, Word2Vec, GloVe. Why and when we need them.
   - Seminar: Playing with word and sentence embeddings.
-  - Homework 1 is out! Due __TBA__.09.2018
 
+- __week02__ Text classification
+  - Lecture: Text classification. Classical approaches for text representation: BOW, TF-IDF. Neural approaches: embeddings, convolutions, RNNs
+  - Seminar: Salary prediction with convolutional neural networks; explaining network predictions.
+
+- __week03__ Language Models
+  - Lecture: TBU
+  - Seminar: TBU
 
 # Contributors & course staff
 Course materials and teaching performed by
