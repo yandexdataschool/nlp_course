@@ -17,8 +17,8 @@
   - Seminar: Salary prediction with convolutional neural networks; explaining network predictions.
 
 - __week03__ Language Models
-  - Lecture: TBU
-  - Seminar: TBU
+  - Lecture: Language models: N-gram and neural approaches; visualizing trained models
+  - Seminar: Generating ArXiv papers with language models
 
 # Contributors & course staff
 Course materials and teaching performed by
