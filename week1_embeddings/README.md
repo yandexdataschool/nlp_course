@@ -1,5 +1,5 @@
 ### Word embeddings
-- [__lecture slides__](https://wiki.school.yandex.ru/shad/groups/2017/Semester3/NLP/.files/nlp1801wordembeddings.pdf)
+- [__lecture slides__](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture1_word_embeddings.pdf)
 
 
 ### Practice & homework

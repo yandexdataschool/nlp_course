@@ -1,0 +1,1 @@
+This folder contains slides for on-campus YSDA lecture. These are the same slides that are referenced in ./week*/ folders. We recommend browsing the course from ./week* instead of explicitly going through slides.
