@@ -2,7 +2,7 @@
 * Lecture and seminar materials for each week are in ./week* folders
 * Create cloud jupyter session from this repo - [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
 * Telegram [chat room](https://t.me/joinchat/EF9ahRMBrVaZm0CgnZgQww) (russian).
-* YSDA deadline and lateness policy will be announced shortly (__TBA__).
+* YSDA homework deadlines are listed in [Anytask course page](https://anytask.org/course/384).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
 
