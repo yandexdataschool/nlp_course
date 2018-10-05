@@ -18,5 +18,8 @@ Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nl
   * Captioning baseline [notebook](https://github.com/yandexdataschool/HSE_deeplearning/blob/master/week7/captioning_solution_ars.ipynb)
 * Lecture on attention mechanisms - [video](https://www.youtube.com/watch?v=_XRBlhzb31U) (RUSSIAN)
 
+### More on Transformer
+* Illustrated transformer [post](https://jalammar.github.io/illustrated-transformer/)
+
 ### Practice
 This time we're gonna use a shared `practice.ipynb` for both seminar and homework.
