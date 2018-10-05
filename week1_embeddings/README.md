@@ -18,3 +18,34 @@ If you have any difficulties with notebooks, just open them in [colab](https://c
 * FastText project [repo](https://github.com/facebookresearch/fastText)
 * Semantic change over time - oberved through word embeddings - [arxiv](https://arxiv.org/pdf/1605.09096.pdf)
 * Another cool link that you could have shared, but decided to hesitate. Or did you?
+
+### Related articles
+
+#### Starting Point
+
+- **Distributed Representations of Words and Phrases and their Compositionality** Mikolov et al., 2013 [[arxiv]](https://arxiv.org/abs/1310.4546)
+
+- **Efficient Estimation of Word Representations in Vector Space** Mikolov et al., 2013 [[arxiv]](https://arxiv.org/abs/1301.3781)
+
+- **Distributed Representations of Sentences and Documents** Quoc Le et al., 2014 [[arxiv]] (https://arxiv.org/abs/1405.4053)
+
+- **GloVe: Global Vectors for Word Representation** Pennington et al., 2014 [[arxiv]](https://www.aclweb.org/anthology/D14-1162)
+
+- **Enriching Word Vectors with Subword Information** Bojanowski et al., 2016 [[arxiv]](https://arxiv.org/abs/1607.04606)
+
+
+#### Multilingual Embeddings. Unsupervised MT.
+
+- **Enriching word vectors with subword information** Bojanowski et al., 2016 [[arxiv]](https://arxiv.org/abs/1607.04606)
+
+- **Exploiting similarities between languages for machine translation** Mikolov et al., 2013 [[arxiv]](https://arxiv.org/abs/1309.4168)
+
+- **Improving vector space word representations using multilingual correlation** Faruqui and Dyer, EACL 2014 [[pdf]](https://www.aclweb.org/anthology/E14-1049)
+
+- **Learning principled bilingual mappings of word embeddings while preserving monolingual invariance** Artetxe et al., EMNLP 2016 [[pdf]](https://aclweb.org/anthology/D16-1250)
+
+- **Offline bilingual word vectors, orthogonal transformations and the inverted softmax** [[arxiv]](https://arxiv.org/abs/1702.03859)
+Smith et al., ICLR 2017
+
+- **Word Translation Without Parallel Data** Conneau et al., 2018 [[arxiv]](https://arxiv.org/abs/1710.04087)
+
