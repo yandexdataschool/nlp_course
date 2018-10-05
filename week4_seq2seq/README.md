@@ -2,6 +2,10 @@ __Lecture [slides](https://github.com/yandexdataschool/nlp_course/raw/master/res
 
 Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week4_seq2seq/practice.ipynb).
 
+![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
+
+![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/attention_mechanism.gif)
+
 ### Materials
 * Stanford lecture on seq2seq and MT - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 
