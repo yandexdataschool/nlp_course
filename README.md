@@ -8,17 +8,21 @@
 
 
 # Syllabus
-- __week01__ Embeddings
+- [__week01__](https://github.com/yandexdataschool/nlp_course/tree/master/week1_embeddings) __Embeddings__
   - Lecture: Word embeddings. Distributional semantics, LSA, Word2Vec, GloVe. Why and when we need them.
   - Seminar: Playing with word and sentence embeddings.
 
-- __week02__ Text classification
+- [__week02__](https://github.com/yandexdataschool/nlp_course/tree/master/week2_classification) __Text classification__
   - Lecture: Text classification. Classical approaches for text representation: BOW, TF-IDF. Neural approaches: embeddings, convolutions, RNNs
   - Seminar: Salary prediction with convolutional neural networks; explaining network predictions.
 
-- __week03__ Language Models
+- [__week03__](https://github.com/yandexdataschool/nlp_course/tree/master/week3_lm) __Language Models__
   - Lecture: Language models: N-gram and neural approaches; visualizing trained models
   - Seminar: Generating ArXiv papers with language models
+  
+- [__week04__](https://github.com/yandexdataschool/nlp_course/tree/master/week4_seq2seq) __Seq2seq/Attention__
+  - Lecture: Seq2seq: encoder-decoder framework. Attention: Bahdanau model. Self-attention, Transformer. Pointer networks. Attention for analysis.
+  - Seminar: Machine translation of hotel and hostel descriptions
 
 # Contributors & course staff
 Course materials and teaching performed by
