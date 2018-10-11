@@ -2,6 +2,9 @@
 __[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_05_slides.pdf)__
 
 
+### More materials
+* Tutorial on Conditional Random Fields - [url](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+* Neural sequence tagging with CRF loss - [blog post](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
 
 ### Practice
 
