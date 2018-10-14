@@ -23,6 +23,10 @@
 - [__week04__](https://github.com/yandexdataschool/nlp_course/tree/master/week4_seq2seq) __Seq2seq/Attention__
   - Lecture: Seq2seq: encoder-decoder framework. Attention: Bahdanau model. Self-attention, Transformer. Pointer networks. Attention for analysis.
   - Seminar: Machine translation of hotel and hostel descriptions
+  
+- [__week05__](https://github.com/yandexdataschool/nlp_course/tree/master/week5_structured) __Structured Learning__
+  - Lecture: Structured Learning: structured perceptron, structured prediction, dynamic oracles, RL basics.
+
 
 # Contributors & course staff
 Course materials and teaching performed by
