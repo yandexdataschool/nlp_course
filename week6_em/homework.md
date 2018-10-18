@@ -2,6 +2,8 @@
 
 In preparation for next week's class on Machine Translation, you should form groups of five or six students, pick one of the following questions and be prepared to give a short presentation during the lecture. 
 
+[Spreadsheet for signing up to present](https://docs.google.com/spreadsheets/d/14GDtxQlvTTEFURvPZ6r_EeCFdpkaJ37Yu00MQ8WXsa0/edit?usp=sharing)
+
 Each person should read at least one paper and your group should probably meet in advance of the class to finalize your presentation. 
 
 As well as explaining the main ideas in the papers, please also pay attention to any problems with the experimental set up in the paper and comment on whether their conclusions are well supported by their results.
