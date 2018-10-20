@@ -32,6 +32,11 @@
   - Seminar: [MLE and Expectation-Maximization practical](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em/mle_em_seminar.ipynb) [3 bonus points if completed with next assignment (7th Nov.)]
   - Homework: [Class presentation on question from this list](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em/homework.md) [5 points for students attending class only]
 
+- [__week06__](https://github.com/yandexdataschool/nlp_course/tree/master/week7_mt) __Machine Translation__
+  - Lecture: Machine translation (phrase-based and neural approaches), word alignment models
+  - Seminar: Word alignment
+  - Homework: Word alignment 
+
 # Contributors & course staff
 Course materials and teaching performed by
 - [Elena Voita](https://research.yandex.com/lib/people/610744) - course admin, lectures, seminars, homeworks
