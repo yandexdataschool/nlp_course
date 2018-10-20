@@ -8,7 +8,7 @@ The Expectation-Maximization algorithm is a general algorithm for estimating mod
 * (Slides 2) [Word alignment models](word_alignment.pdf).
 * (Notes) [Detailed notes](word_alignment_notes.pdf)
 
-Seminar will use this [notebook](mle_em_seminar.ipynb).
+Seminar will use this [notebook](mle_em_seminar.ipynb). [3 bonus points if submitted with next assignment (7th Nov.)]
 
 
 #### [Homework (due in class next week)](homework.md)
