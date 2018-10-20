@@ -27,6 +27,10 @@
 - [__week05__](https://github.com/yandexdataschool/nlp_course/tree/master/week5_structured) __Structured Learning__
   - Lecture: Structured Learning: structured perceptron, structured prediction, dynamic oracles, RL basics.
 
+- [__week06__](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em) __Expectation Maximization__
+  - Lecture: Generative models, maximum likelihood estimation, latent variable models, Expectation-Maximization algorithm
+  - Seminar: [MLE and Expectation-Maximization practical](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em/mle_em_seminar.ipynb) [3 bonus points if completed with next assignment (7th Nov.)]
+  - Homework: [Class presentation on question from this list](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em/homework.md) [5 points for students attending class only]
 
 # Contributors & course staff
 Course materials and teaching performed by
