@@ -14,6 +14,7 @@ You can use up to 3 slides to summarize the main ideas of the paper (if you want
 1. What are the main computational and statistical bottlenecks in NMT? How can we reduce them?
   * [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf)
   * [Simple, Fast Noise-Contrastive Estimation for Large RNN Vocabularies](http://www.aclweb.org/anthology/N16-1145.pdf)
+  * [On Using Very Large Target Vocabulary for Neural Machine Translation](http://www.aclweb.org/anthology/P15-1001)
   * [Vocabulary Manipulation for Neural Machine Translation](http://www.aclweb.org/anthology/P16-2021)
   * [Fully Character-Level Neural Machine Translation without Explicit Segmentation](http://aclweb.org/anthology/Q17-1026)
   * [Using the Output Embedding to Improve Language Models](http://www.aclweb.org/anthology/E17-2025)
