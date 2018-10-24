@@ -8,7 +8,7 @@ Each person should read at least one paper (ideally not more than 2 people per p
 
 As well as explaining the main ideas in the papers, please also pay attention to any problems with the experimental set up in the paper and comment on whether their conclusions are well supported by their results. 
 
-You can use up to 3 slides to summarize the main ideas of the paper (if you want).
+You can use up to 3 slides to summarize the main ideas of the papers (if you want).
 
 
 1. What are the main computational and statistical bottlenecks in NMT? How can we reduce them?
