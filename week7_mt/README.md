@@ -8,6 +8,6 @@ Today's lecture will cover the basic problems of machine translation, evaluation
 
 #### Homework
 
-* (Slides) [Word alignment models](word_alignment.pdf).
-* (Notes) [Detailed notes](word_alignment_notes.pdf)
+* (Slides) [Word alignment models](../week6_em/word_alignment.pdf).
+* (Notes) [Detailed notes](../week6_em/word_alignment_notes.pdf)
 
