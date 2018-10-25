@@ -5,6 +5,7 @@ Today's lecture will cover the basic problems of machine translation, evaluation
 * (Slides 1) [Machine Translation](mt_lecture_part1.pdf) 
 * (Slides 2) [Phrase-based Machine Translation](mt_lecture_part2.pdf) 
 * (Slides 3) [Neural Machine Translation](mt_lecture_part3.pdf) 
+* (Slides 4) [Advanced Topics in Neural Machine Translation](mt_lecture_part4.pdf) 
 
 #### Homework
 
