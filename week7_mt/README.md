@@ -9,8 +9,10 @@ Today's lecture will cover the basic problems of machine translation, evaluation
 
 #### Homework
 
-A homework assignment will be set in the next few days. You will be required to build word alignment models and align some data. The homework will be based on the ideas in these slides and notes.
+A homework assignment has now been set. You will be required to build word alignment models and align some data. The homework requires you to apply EM to word alignment. There are more details in these slides and notes.
 
+* (Notebook) [Word alignment assignment](../week7_mt/homework/word_alignment_assignment.ipynb)
 * (Slides) [Word alignment models](../week6_em/word_alignment.pdf).
 * (Notes) [Detailed notes](../week6_em/word_alignment_notes.pdf)
 
+The homework will be due on Monday 12th Nov. by 09:00.
