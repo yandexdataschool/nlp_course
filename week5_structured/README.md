@@ -1,10 +1,12 @@
-
-__[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_05_slides.pdf)__
-
+## Materials
+* __[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_05_slides.pdf)__
+* Our [lecture](https://yadi.sk/i/E3Rl6x4LtYZZ7g), [seminar](https://yadi.sk/i/cIkA3WV9NPjdMg) (russian)
+* CMU lectures (english): [intro](https://www.youtube.com/watch?v=zYX6DfA-BtM&index=8&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE), [seq-labeling](https://www.youtube.com/watch?v=isxzsAelQX0)
 
 ### More materials
 * Tutorial on Conditional Random Fields - [url](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
 * Neural sequence tagging with CRF loss - [blog post](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
+* More CMU lectures on applied structured learning: [CRF
 
 ### Practice
 
