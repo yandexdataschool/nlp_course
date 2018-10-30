@@ -2,6 +2,10 @@
 * __Lecture [slides](https://github.com/yandexdataschool/nlp_course/raw/master/resources/slides/nlp18_04_seq2seq_attention.pdf)__
 * Our videos (russian): [lecture](https://yadi.sk/i/3y9JX6Q_0ZLqpA), [seminar](https://yadi.sk/i/cB5606vgbOlBog)
 * Stanford lecture on seq2seq and MT (english) - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
+* Alternative CMU lectures - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20) and [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
+
+### Practice
+This time we're gonna use a shared `practice.ipynb` for both seminar and homework.
 
 Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week4_seq2seq/practice.ipynb).
 
@@ -21,5 +25,3 @@ Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nl
 ### More on Transformer
 * Illustrated transformer [post](https://jalammar.github.io/illustrated-transformer/)
 
-### Practice
-This time we're gonna use a shared `practice.ipynb` for both seminar and homework.
