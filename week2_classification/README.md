@@ -1,4 +1,7 @@
-__[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture2_text_classification.pdf)__
+### Text Classification
+- __[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture2_text_classification.pdf)__
+- Our lecture videos (russian): [lecture](https://yadi.sk/i/lIcXiNuBXNAWzg), [seminar](https://yadi.sk/i/2xYHH0Fj1vb82A)
+* Stanford NLP lecture: [text convolutions](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
 ## Practice
 
@@ -9,12 +12,9 @@ Your task for this week is to get past two notebooks: `./homework_part1.ipynb` a
 The second part of homework requires you to train a deep neural network. See `./seminar.ipynb` for problem description, tips and tricks.
 
 
-### Materials
-* Alternative english lecture: [text convolutions](https://www.youtube.com/watch?v=nzSPZyjGlWI)
+### More Materials
 * Colah's blog on convolutions, including text convolutions - [url](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 * Same architectures applied for music - [blog post](http://benanne.github.io/2014/08/05/spotify-cnns.html)
-
-### Related articles
 
 #### Neural Bag-of-Words
 
