@@ -26,15 +26,25 @@
   
 - [__week05__](https://github.com/yandexdataschool/nlp_course/tree/master/week5_structured) __Structured Learning__
   - Lecture: Structured Learning: structured perceptron, structured prediction, dynamic oracles, RL basics.
+  - Seminar: POS tagging
+
+- [__week06__](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em) __Expectation-Maximization__
+  - Lecture: Expectation-Maximization and Word Alignment Models
+  - Seminar: Implementing expectation maximizaiton
+
+- [__week07__](https://github.com/yandexdataschool/nlp_course/tree/master/week6_mt) __Machine translation__
+  - Lecture: Machine Translation: a review of the key ideas from PBMT, the application specific ideas that have developed in NMT over the past 3 years and some of the open problems in this area.
+  - Seminar: presentations by students
+
 
 
 # Contributors & course staff
 Course materials and teaching performed by
 - [Elena Voita](https://research.yandex.com/lib/people/610744) - course admin, lectures, seminars, homeworks
 - [Boris Kovarsky](https://github.com/kovarsky) - lectures, seminars, homeworks
+- [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
 - [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homeworks
 - [Just Heuristic](https://github.com/justheuristic) - lectures, seminars, homeworks
-- [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
 
 
 
