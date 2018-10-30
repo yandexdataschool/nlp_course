@@ -1,6 +1,6 @@
 ### Word embeddings
 - [__lecture slides__](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture1_word_embeddings.pdf)
-- Our videos: [lecture](https://yadi.sk/i/wzVA1XYKS2u6NQ), [seminar](https://yadi.sk/i/X5UYALfyyrwzYw)
+- Our videos: [course intro](https://yadi.sk/i/Ff1jVAODd4P9ug), [lecture](https://yadi.sk/i/wzVA1XYKS2u6NQ), [seminar](https://yadi.sk/i/X5UYALfyyrwzYw)
 - Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
 
 
