@@ -1,13 +1,13 @@
-__Lecture [slides](https://github.com/yandexdataschool/nlp_course/raw/master/resources/slides/nlp18_04_seq2seq_attention.pdf)__
+### Materials
+* __Lecture [slides](https://github.com/yandexdataschool/nlp_course/raw/master/resources/slides/nlp18_04_seq2seq_attention.pdf)__
+* Our videos (russian): [lecture](https://yadi.sk/i/3y9JX6Q_0ZLqpA), [seminar](https://yadi.sk/i/cB5606vgbOlBog)
+* Stanford lecture on seq2seq and MT (english) - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 
 Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week4_seq2seq/practice.ipynb).
 
 ![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
 
 ![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/attention_mechanism.gif)
-
-### Materials
-* Stanford lecture on seq2seq and MT - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 
 ### More on RNN
 * Distill.pub post on attention and augmentations for RNN - [post](https://distill.pub/2016/augmented-rnns/)
