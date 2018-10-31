@@ -28,11 +28,9 @@ If you have any difficulties with notebooks, just open them in [colab](https://c
 
 - **Efficient Estimation of Word Representations in Vector Space** Mikolov et al., 2013 [[arxiv]](https://arxiv.org/abs/1301.3781)
 
-- **Distributed Representations of Sentences and Documents** Quoc Le et al., 2014 [[arxiv]] (https://arxiv.org/abs/1405.4053)
+- **Distributed Representations of Sentences and Documents** Quoc Le et al., 2014 [[arxiv]](https://arxiv.org/abs/1405.4053)
 
-- **GloVe: Global Vectors for Word Representation** Pennington et al., 2014 [[arxiv]](https://www.aclweb.org/anthology/D14-1162)
-
-- **Enriching Word Vectors with Subword Information** Bojanowski et al., 2016 [[arxiv]](https://arxiv.org/abs/1607.04606)
+- **GloVe: Global Vectors for Word Representation** Pennington et al., 2014 [[article]](https://www.aclweb.org/anthology/D14-1162)
 
 
 #### Multilingual Embeddings. Unsupervised MT.
