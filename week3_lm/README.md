@@ -8,10 +8,9 @@
 ### Practice
 As usual, `./seminar.ipynb` and `./homework.ipynb` awaits you :)
 
-### More on materials
+### More materials
 * CS231 lecture on RNNs - [video](https://www.youtube.com/watch?v=iX5V1WpxxkY) (english)
 * A more detailed lecture by Y. Bengio - [video](https://www.youtube.com/watch?v=xK-bzjIQkmM)
-* YSDA DL [lecture](https://yadi.sk/i/XHmT5hO53GcCKV), [seminar](https://yadi.sk/i/19twHESN3GcGKQ) (russian)
 * Great reading by A. Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * LSTM explained in detail by colah - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * "Awesome rnn" entry point - https://github.com/kjw0612/awesome-rnn
