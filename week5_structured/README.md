@@ -6,7 +6,7 @@
 ### More materials
 * Tutorial on Conditional Random Fields - [url](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
 * Neural sequence tagging with CRF loss - [blog post](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
-* More CMU lectures on applied structured learning: [CRF
+* More CMU lectures on applied structured learning: now with [CRF](https://www.youtube.com/watch?v=YaEgERIuhdg)
 
 ### Practice
 
