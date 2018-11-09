@@ -31,11 +31,18 @@
   - Lecture: Expectation-Maximization and Word Alignment Models
   - Seminar: Implementing expectation maximizaiton
 
-- [__week07__](https://github.com/yandexdataschool/nlp_course/tree/master/week6_mt) __Machine translation__
+- [__week07__](https://github.com/yandexdataschool/nlp_course/tree/master/week7_mt) __Machine translation__
   - Lecture: Machine Translation: a review of the key ideas from PBMT, the application specific ideas that have developed in NMT over the past 3 years and some of the open problems in this area.
   - Seminar: presentations by students
+  
+- [__week08__](https://github.com/yandexdataschool/nlp_course/tree/master/week8_multitask) __Transfer learning and Multi-task learning__
+  - Lecture: What and why does a network learn: "model" is never just "model"! Transfer learning in NLP. Multi-task learning in NLP. How to understand, what kind of information the model representations contain.
+  - Seminar: Improving named entity recognition by learning jointly with other tasks
 
-
+- __week09__ Domain Adaptation
+- __week10__ Dialogue Systems
+- __week11__ Adversarial methods
+- __week12-13 - TBA__
 
 # Contributors & course staff
 Course materials and teaching performed by
