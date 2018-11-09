@@ -96,3 +96,15 @@ def read_parallel_corpus(path, has_alignments=False):
             alignments.append(these_alignments)
     assert validate(src_corpus, trg_corpus, alignments)
     return src_corpus, trg_corpus, alignments
+
+def alignment_string(alignments):
+    align_strings = []
+    for src_index, trg_indices in alignments.items():
+        for trg_index, kind in trg_indices.items():
+            align_strings.append('%d-%d-%s' % (src_index, trg_index, kind))
+    return ' '.join(align_strings)
+
+def write_aligned_corpus(aligned_corpus, suffix, src_lang='en', trg_lang='cs'):
+    out = open('%s-%s-wa.%s' % (src_lang, trg_lang, suffix), 'w')
+    for src_tokens, trg_tokens, alignments in aligned_corpus:
+        out.write('%s\t%s\t%s\n' % (' '.join(src_tokens), ' '.join(trg_tokens), alignment_string(alignments)))
