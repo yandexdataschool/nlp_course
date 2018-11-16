@@ -24,7 +24,8 @@ class Model:
 
             # prepare to translate_lines
             self.inp = tf.placeholder('int32', [None, None])
-            self.initial_state = self.prev_state = self.encode(self.inp)
+            self.initial_state = self.encode(self.inp)
+            self.prev_state = [tf.placeholder(x.dtype, x.shape) for x in self.initial_state]
             self.prev_tokens = tf.placeholder('int32', [None])
             self.next_state, self.next_logits = self.decode(self.prev_state, self.prev_tokens)
 
@@ -371,4 +372,3 @@ def initialize_uninitialized(sess=None):
 
     if len(not_initialized_vars):
         sess.run(tf.variables_initializer(not_initialized_vars))
-
