@@ -35,3 +35,16 @@ There's no homework part at this assignment.
 - **Improving Neural Machine Translation Models with Monolingual Data** Sennrich et al. 2016 [[arxiv]](https://arxiv.org/abs/1511.06709)
 - **Iterative Back-Translation for Neural Machine Translation** Hoang et al. 2018 [[pdf]](http://aclweb.org/anthology/W18-2703)
 
+#### Knowledge Distillation
+- **Distilling the Knowledge in a Neural Network** Hinton et al. 2015 [[arxiv]](https://arxiv.org/abs/1503.02531)
+- **Fine-Tuning for Neural Machine Translation with Limited Degradation across In- and Out-of-Domain Data** Dakwale, Monz 2017 [[pdf]](https://staff.science.uva.nl/c.monz/ltl/publications/mtsummit2017.pdf)
+
+#### Deep Feature Alignment
+- **Learning Transferable Features with Deep Adaptation Networks** Long et al. 2015 [[arxiv]](https://arxiv.org/abs/1502.02791)
+##### Batch Normalization-like:
+- **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift** Sergey Ioffe, Christian Szegedy, 2015 [[arxiv]](https://arxiv.org/abs/1502.03167)
+- **Revisiting Batch Normalization For Practical Domain Adaptation**  Li et al. 2016 [[arxiv]](https://arxiv.org/abs/1603.04779)
+- **AutoDIAL: Automatic DomaIn Alignment Layers** Carlucci et al. 2017 [[arxiv]](https://arxiv.org/abs/1704.08082)
+
+
+
