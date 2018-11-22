@@ -2,6 +2,13 @@ __Slides - [click here](https://github.com/yandexdataschool/nlp_course/blob/mast
 
 ![img](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/task_oriented_dialog_systems.gif)
 
+### More on neighbor search
+* Academic lecture on the matter - [video](https://www.youtube.com/watch?v=vAboxtLEeH0)
+* SoTA for speed: HNSW - [arxiv](https://arxiv.org/abs/1603.09320)
+* Short primer on KDTree - [video](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
+* Short primer on LSH - [video(idea)](https://www.youtube.com/watch?v=dgH0NP8Qxa8), [video(algorithms)](https://www.youtube.com/watch?v=Arni-zkqMBA)
+* Advanced lecture on LSH - [video](https://www.youtube.com/watch?v=t_8SpFV0l7A)
+
 ### More materials
 We could only find a few related materials in either language.
 * Russian lecture: conversational systems, seq2seq vs ranking, DSSM - [video](https://www.youtube.com/watch?v=n-mNWacDKUQ), Seminar: - [video](https://yadi.sk/i/c1pbEa0P3Up6jz)
@@ -9,12 +16,6 @@ We could only find a few related materials in either language.
 * Siamee networks explained - [url](https://www.quora.com/What-are-Siamese-neural-networks-what-applications-are-they-good-for-and-why) (see first reply by Pond-Premtoon)
 * DSSM materials by Microsoft Research - [url](https://www.microsoft.com/en-us/research/project/dssm/)
 
-### More on neighbor search
-* Academic lecture on the matter - [video](https://www.youtube.com/watch?v=vAboxtLEeH0)
-* SoTA for speed: HNSW - [arxiv](https://arxiv.org/abs/1603.09320)
-* Short primer on KDTree - [video](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
-* Short primer on LSH - [video(idea)](https://www.youtube.com/watch?v=dgH0NP8Qxa8), [video(algorithms)](https://www.youtube.com/watch?v=Arni-zkqMBA)
-* Advanced lecture on LSH - [video](https://www.youtube.com/watch?v=t_8SpFV0l7A)
 
 ## Practice
 
