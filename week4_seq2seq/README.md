@@ -9,9 +9,11 @@ This time we're gonna use a shared `practice.ipynb` for both seminar and homewor
 
 Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week4_seq2seq/practice.ipynb).
 
-![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
+#### RNN Encoder-Decoder (Vanilla):
+![vanilla_enc_dec](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
 
-![](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/attention_mechanism.gif)
+#### Attention mechanism:
+![attention_mechanism](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/attention_mechanism.gif)
 
 ### More on RNN
 * Distill.pub post on attention and augmentations for RNN - [post](https://distill.pub/2016/augmented-rnns/)

@@ -39,7 +39,7 @@
   - Lecture: What and why does a network learn: "model" is never just "model"! Transfer learning in NLP. Multi-task learning in NLP. How to understand, what kind of information the model representations contain.
   - Seminar: Improving named entity recognition by learning jointly with other tasks
 
-- __week09__ Domain Adaptation
+- [__week09__](https://github.com/yandexdataschool/nlp_course/tree/master/week9_da) __Domain Adaptation__
 - __week10__ Dialogue Systems
 - __week11__ Adversarial methods
 - __week12-13 - TBA__
