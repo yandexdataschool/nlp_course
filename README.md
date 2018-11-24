@@ -43,10 +43,10 @@
   - Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
   - Seminar: Adapting general machine translation model to a specific domain.
 - [__week10__](https://github.com/yandexdataschool/nlp_course/tree/master/week10_dialogue) __Dialogue Systems__
-- __week11__ Adversarial methods
   - Lecture: Task-oriented vs general conversation systems. Overview of a framework for task-oriented systems. General conversation: retrieval and generative approaches. Generative models for general conversation. Retrieval-based models for general conversation.
   - Seminar: Simple retrieval-based question answering
   
+- __week11__ Adversarial methods
 - __week12-13 - TBA__
 
 # Contributors & course staff
