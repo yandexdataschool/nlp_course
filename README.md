@@ -7,40 +7,40 @@
 
 
 # Syllabus
-- [__week01__](https://github.com/yandexdataschool/nlp_course/tree/master/week1_embeddings) __Embeddings__
+- [__week01__](https://github.com/yandexdataschool/nlp_course/tree/master/week01_embeddings) __Embeddings__
   - Lecture: Word embeddings. Distributional semantics, LSA, Word2Vec, GloVe. Why and when we need them.
   - Seminar: Playing with word and sentence embeddings.
 
-- [__week02__](https://github.com/yandexdataschool/nlp_course/tree/master/week2_classification) __Text classification__
+- [__week02__](https://github.com/yandexdataschool/nlp_course/tree/master/week02_classification) __Text classification__
   - Lecture: Text classification. Classical approaches for text representation: BOW, TF-IDF. Neural approaches: embeddings, convolutions, RNNs
   - Seminar: Salary prediction with convolutional neural networks; explaining network predictions.
 
-- [__week03__](https://github.com/yandexdataschool/nlp_course/tree/master/week3_lm) __Language Models__
+- [__week03__](https://github.com/yandexdataschool/nlp_course/tree/master/week03_lm) __Language Models__
   - Lecture: Language models: N-gram and neural approaches; visualizing trained models
   - Seminar: Generating ArXiv papers with language models
   
-- [__week04__](https://github.com/yandexdataschool/nlp_course/tree/master/week4_seq2seq) __Seq2seq/Attention__
+- [__week04__](https://github.com/yandexdataschool/nlp_course/tree/master/week04_seq2seq) __Seq2seq/Attention__
   - Lecture: Seq2seq: encoder-decoder framework. Attention: Bahdanau model. Self-attention, Transformer. Pointer networks. Attention for analysis.
   - Seminar: Machine translation of hotel and hostel descriptions
   
-- [__week05__](https://github.com/yandexdataschool/nlp_course/tree/master/week5_structured) __Structured Learning__
+- [__week05__](https://github.com/yandexdataschool/nlp_course/tree/master/week05_structured) __Structured Learning__
   - Lecture: Structured Learning: structured perceptron, structured prediction, dynamic oracles, RL basics.
   - Seminar: POS tagging
 
-- [__week06__](https://github.com/yandexdataschool/nlp_course/tree/master/week6_em) __Expectation-Maximization__
+- [__week06__](https://github.com/yandexdataschool/nlp_course/tree/master/week06_em) __Expectation-Maximization__
   - Lecture: Expectation-Maximization and Word Alignment Models
   - Seminar: Implementing expectation maximizaiton
 
-- [__week07__](https://github.com/yandexdataschool/nlp_course/tree/master/week7_mt) __Machine translation__
+- [__week07__](https://github.com/yandexdataschool/nlp_course/tree/master/week07_mt) __Machine translation__
   - Lecture: Machine Translation: a review of the key ideas from PBMT, the application specific ideas that have developed in NMT over the past 3 years and some of the open problems in this area.
   - Seminar: presentations by students
   
-- [__week08__](https://github.com/yandexdataschool/nlp_course/tree/master/week8_multitask) __Transfer learning and Multi-task learning__
+- [__week08__](https://github.com/yandexdataschool/nlp_course/tree/master/week08_multitask) __Transfer learning and Multi-task learning__
   - Lecture: What and why does a network learn: "model" is never just "model"! Transfer learning in NLP. Multi-task learning in NLP. How to understand, what kind of information the model representations contain.
   - Seminar: Improving named entity recognition by learning jointly with other tasks
 
-- [__week09__](https://github.com/yandexdataschool/nlp_course/tree/master/week9_da) __Domain Adaptation__
-- __week10__ Dialogue Systems
+- [__week09__](https://github.com/yandexdataschool/nlp_course/tree/master/week09_da) __Domain Adaptation__
+- [__week10__](https://github.com/yandexdataschool/nlp_course/tree/master/week09_dialogue) __Dialogue Systems__
 - __week11__ Adversarial methods
 - __week12-13 - TBA__
 
