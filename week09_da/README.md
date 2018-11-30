@@ -1,6 +1,7 @@
 __Lecture [slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture9_domain_adaptation.pdf)__
 
 # More materials
+* Russian videos: [lecture](https://yadi.sk/i/MnuyuCSAOJainw), [seminar](https://yadi.sk/i/15ApU2_cTFbL1g)
 * An overview of proxy-label approaches for semi-supervised learning - [blog post](http://ruder.io/semi-supervised/)
 * A Little Review of Domain Adaptation in 2017 - [blog post](https://artix41.github.io/static/domain-adaptation-in-2017/index.html)
 * Awesome Transfer Learning  - list of papers [repo](https://github.com/artix41/awesome-transfer-learning)

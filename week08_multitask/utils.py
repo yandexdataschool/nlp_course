@@ -84,7 +84,7 @@ class Vocab:
 ### Utility TF functions ###
 
 
-def infer_length(seq, pad_ix=1, time_major=False, dtype=tf.int32):
+def infer_length(seq, pad_ix=0, time_major=False, dtype=tf.int32):
     """
     compute length given output indices and PAD code
     :param seq: tf matrix [time,batch] if time_major else [batch,time]
@@ -98,7 +98,7 @@ def infer_length(seq, pad_ix=1, time_major=False, dtype=tf.int32):
     return lengths
 
 
-def infer_mask(seq, pad_ix=1, time_major=False, dtype=tf.float32):
+def infer_mask(seq, pad_ix=0, time_major=False, dtype=tf.float32):
     """
     compute mask given output indices and PAD code
     :param seq: tf matrix [time,batch] if time_major else [batch,time]
