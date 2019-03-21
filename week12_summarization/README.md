@@ -1,5 +1,8 @@
 
-__Slides - [click here](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_13_abstractive_summarization.pdf)__
+## Materials
+* __[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_13_abstractive_summarization.pdf)__
+* Our [lecture](https://yadi.sk/i/DYRl1sxGK5fyKA) (russian)
+
 
 
 ## Practice
