@@ -1,7 +1,7 @@
 __[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_gan_8.pdf)__
 
 ### Videos:
-* Russian - (still looking for one)
+* Russian - [lecture](https://yadi.sk/i/bXEimWhiCwvDBQ), [seminar](https://yadi.sk/i/31aOtnMUgYbblA)
 * English - [GAN](https://www.youtube.com/watch?v=twjlGZzUM68) and [VAE](https://www.youtube.com/watch?v=Un6t2wrhaT0)
 
 ### More materials
