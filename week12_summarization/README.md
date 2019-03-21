@@ -4,6 +4,8 @@
 * Our [lecture](https://yadi.sk/i/DYRl1sxGK5fyKA) (russian)
 
 
+![summarization_types](https://github.com/yandexdataschool/nlp_course/raw/master/resources/nlp18_13_summarization_gif.gif)
+
 
 ## Practice
 
