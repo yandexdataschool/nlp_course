@@ -1,4 +1,4 @@
-__Lecture [slides](https://wiki.school.yandex.ru/shad/groups/2017/Semester3/NLP/.files/nlp1809multitask.pdf)__
+__Lecture [slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/nlp18_09_multi_task.pdf)__
 
 # More materials
 * An overview of multitask learning - [blog post](http://ruder.io/multi-task/)
