@@ -14,7 +14,7 @@ RUN ln -s /usr/bin/swig3.0 /usr/bin/swig
 
 RUN pip install --upgrade pip==9.0.3
 RUN pip install --upgrade --ignore-installed setuptools  #fix https://github.com/tensorflow/tensorflow/issues/622
-RUN pip install --upgrade sklearn tqdm nltk editdistance joblib graphviz pandas gensim
+RUN pip install --upgrade sklearn tqdm nltk editdistance joblib graphviz pandas gensim matplotlib
 RUN pip install --upgrade tensorflow==1.13.1
 RUN pip install --upgrade keras
 
