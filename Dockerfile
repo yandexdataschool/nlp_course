@@ -5,7 +5,7 @@ RUN pip install --no-cache --upgrade pip && \
 
 RUN apt-get -qq update
 # RUN apt-get install -y gcc-4.9 g++-4.9 libstdc++6 wget unzip
-RUN apt-get install -y gcc g++ libstdc++6 wget unzip git
+RUN apt-get install -y gcc g++ libstdc++6 curl wget unzip git
 RUN apt-get install -y libopenblas-dev liblapack-dev libsdl2-dev libboost-all-dev graphviz
 RUN apt-get install -y cmake zlib1g-dev libjpeg-dev 
 RUN apt-get install -y xvfb libav-tools xorg-dev python-opengl python3-opengl
