@@ -55,7 +55,7 @@
 
 # Contributors & course staff
 Course materials and teaching performed by
-- [Elena Voita](https://research.yandex.com/lib/people/610744) - course admin, lectures, seminars, homeworks
+- [Elena Voita](https://lena-voita.github.io) - course admin, lectures, seminars, homeworks
 - [Boris Kovarsky](https://github.com/kovarsky) - lectures, seminars, homeworks
 - [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
 - [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homeworks
