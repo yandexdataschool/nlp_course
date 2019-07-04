@@ -35,6 +35,8 @@ If you have any difficulties with notebooks, just open them in [colab](https://c
 
 - **GloVe: Global Vectors for Word Representation** Pennington et al., 2014 [[article]](https://www.aclweb.org/anthology/D14-1162)
 
+- **Word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method** Yoav Goldberg, Omer Levy, 2014 [[arxiv]](https://arxiv.org/abs/1402.3722)
+
 
 #### Multilingual Embeddings. Unsupervised MT.
 
