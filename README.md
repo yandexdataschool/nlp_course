@@ -1,5 +1,5 @@
 # YSDA Natural Language Processing course [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master)
-* This is the 2019 version. For previous year' course materials, go to the [2019 branch](https://github.com/yandexdataschool/nlp_course/tree/master)
+* This is the 2019 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/master)
 * Lecture and seminar materials for each week are in ./week* folders
 * YSDA homework deadlines will be listed in Anytask (TBA).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
