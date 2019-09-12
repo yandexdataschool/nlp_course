@@ -1,6 +1,6 @@
 ### Word embeddings
-- [__lecture slides__](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture1_word_embeddings.pdf)
-- Our videos: [course intro](https://yadi.sk/i/Ff1jVAODd4P9ug), [lecture](https://yadi.sk/i/wzVA1XYKS2u6NQ), [seminar](https://yadi.sk/i/X5UYALfyyrwzYw)
+- [__lecture slides__](../resources/slides/lecture1_word_embeddings.pdf)
+- Our videos: __TBA__
 - Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
 
 
@@ -35,12 +35,26 @@ If you have any difficulties with notebooks, just open them in [colab](https://c
 
 - **GloVe: Global Vectors for Word Representation** Pennington et al., 2014 [[article]](https://www.aclweb.org/anthology/D14-1162)
 
+- **Enriching word vectors with subword information** Bojanowski et al., 2016 [[arxiv]](https://arxiv.org/abs/1607.04606) (FastText)
+
+
+#### Explaination and Analysis
+
 - **Word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method** Yoav Goldberg, Omer Levy, 2014 [[arxiv]](https://arxiv.org/abs/1402.3722)
+
+- **Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors** Marco Baroni, Georgiana Dinu, Germa ́n Kruszewski, ACL 2014, [[paper]](https://www.aclweb.org/anthology/P14-1023)
+
+- **The strange geometry of skip-gram with negative sampling**, David Mimno, Laure Thompson, EMNLP 2017, [[paper]](https://www.aclweb.org/anthology/D17-1308)
+
+- **Characterizing Departures from Linearity in Word Translation** Ndapa Nakashole, Raphael Flauger, ACL 2018, [[paper]](https://aclweb.org/anthology/P18-2036)
+
+- **On the Dimensionality of Word Embedding** Zi Yin, Yuanyuan Shen, NIPS 2018, [[arxiv]](https://arxiv.org/pdf/1812.04224.pdf)
+
+- **Analogies Explained: Towards Understanding Word Embeddings** Carl Allen, Timothy Hospedales, ICML 2019, [[arxiv]](https://arxiv.org/abs/1901.09813) [[official blog post]](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html)
+
 
 
 #### Multilingual Embeddings. Unsupervised MT.
-
-- **Enriching word vectors with subword information** Bojanowski et al., 2016 [[arxiv]](https://arxiv.org/abs/1607.04606)
 
 - **Exploiting similarities between languages for machine translation** Mikolov et al., 2013 [[arxiv]](https://arxiv.org/abs/1309.4168)
 
