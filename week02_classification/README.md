@@ -1,11 +1,11 @@
 ### Text Classification
-- __[slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture2_text_classification.pdf)__
-- Our lecture videos (russian): [lecture](https://yadi.sk/i/lIcXiNuBXNAWzg), [seminar](https://yadi.sk/i/2xYHH0Fj1vb82A)
+- [slides] - __TBA__
+- Our lecture videos (russian): [lecture - TBA], [seminar - TBA]
 * Stanford NLP lecture: [text convolutions](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
 ## Practice
 
-Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/master/week02_classification/seminar.ipynb)
+Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week02_classification/seminar.ipynb)
 
 Your task for this week is to get past two notebooks: `./homework_part1.ipynb` and... you guessed it, `./homework_part2.ipynb`. 
 
