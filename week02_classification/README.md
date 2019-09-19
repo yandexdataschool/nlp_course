@@ -1,5 +1,5 @@
 ### Text Classification
-- [slides] - __TBA__
+- [lecture slides](https://github.com/yandexdataschool/nlp_course/blob/2019/resources/slides/nlp19_02_classification.pdf)
 - Our lecture videos (russian): [lecture - TBA], [seminar - TBA]
 * Stanford NLP lecture: [text convolutions](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
