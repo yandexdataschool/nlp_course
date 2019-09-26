@@ -1,7 +1,7 @@
 
 
 ### Materials
-* __Lecture slides: __TBA__
+* Lecture slides: __TBA__
 * Our videos (russian) - __TBA__
 * Stanford nlp videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
