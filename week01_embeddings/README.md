@@ -1,6 +1,6 @@
 ### Word embeddings
 - [__lecture slides__](../resources/slides/nlp19_01_word_embeddings.pdf)
-- Our videos: __TBA__
+- Our videos: [__intro__](https://yadi.sk/i/BNTJG-_rwf20Gw), [__lecture__](https://yadi.sk/i/nUiHl4VPMOCz0g), [__seminar__](https://yadi.sk/i/QTcGA5mgdhS8jg)
 - Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
 
 
