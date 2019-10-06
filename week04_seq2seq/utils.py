@@ -65,7 +65,7 @@ class Vocab:
                     line_ix = line_ix[1:]
                 if self.eos_ix in line_ix:
                     line_ix = line_ix[:line_ix.index(self.eos_ix)]
-            line = [self.tokens[i] for i in line_ix]
+            line = ' '.join(self.tokens[i] for i in line_ix)
             lines.append(line)
         return lines
 
