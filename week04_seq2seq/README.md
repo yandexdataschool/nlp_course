@@ -7,7 +7,7 @@
 ### Practice
 This time we're gonna use a shared `practice.ipynb` for both seminar and homework.
 
-Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week04_seq2seq/practice.ipynb).
+Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week04_seq2seq/practice_and_homework.ipynb).
 
 #### RNN Encoder-Decoder (Vanilla):
 ![vanilla_enc_dec](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/vanilla_enc_dec.gif)
