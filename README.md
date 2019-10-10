@@ -15,6 +15,18 @@
   - Lecture: Text classification. Classical approaches for text representation: BOW, TF-IDF. Neural approaches: embeddings, convolutions, RNNs
   - Seminar: Salary prediction with convolutional neural networks; explaining network predictions.
 
+- [__week03__](./week03_lm) __Language Models__
+  - Lecture: Language models: N-gram and neural approaches; visualizing trained models
+  - Seminar: Generating ArXiv papers with language models
+  
+- [__week04__](./week04_seq2seq) __Seq2seq/Attention__
+  - Lecture: Seq2seq: encoder-decoder framework. Attention: Bahdanau model. Self-attention, Transformer. Pointer networks. Attention for analysis.
+  - Seminar: Machine translation of hotel and hostel descriptions
+  
+- [__week05__](./week05_em) __Expectation-Maximization__
+  - Lecture: Expectation-Maximization and Word Alignment Models
+  - Seminar: Implementing expectation maximizaiton
+
 
 # Contributors & course staff
 Course materials and teaching performed by
