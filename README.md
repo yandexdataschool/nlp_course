@@ -20,7 +20,7 @@
   - Seminar: Generating ArXiv papers with language models
   
 - [__week04__](./week04_seq2seq) __Seq2seq/Attention__
-  - Lecture: Seq2seq: encoder-decoder framework. Attention: Bahdanau model. Self-attention, Transformer. Pointer networks. Attention for analysis.
+  - Lecture: Seq2seq: encoder-decoder framework. Attention: Bahdanau model. Self-attention, Transformer. Analysis of attention heads in Transformer.
   - Seminar: Machine translation of hotel and hostel descriptions
   
 - [__week05__](./week05_em) __Expectation-Maximization__
