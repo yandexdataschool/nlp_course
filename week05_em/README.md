@@ -6,6 +6,20 @@ The Expectation-Maximization algorithm is a general algorithm for estimating mod
 
 * (Slides ) [Generative models and EM](https://github.com/yandexdataschool/nlp_course/blob/2019/week05_em/generative_models_and_em.pdf) 
 * First exercise on MLE and EM [notebook](coins-seminar.ipynb)
-* Homework notebook using HMM to decipher text [notebook](hmm-seminar.ipynb) This homework is worth 15 points and is due by the next class (17th Oct.), please submit the results of the last task (a list of files and names of the author/work) to Anytask in the following format: 'filename author' where 'filename' is a file from 'encrypted/*_encrypted.txt' and 'author' is a file from 'plaintext/*' (not including 'english.txt', 'russian.txt' or 'all.txt') which best matches.
+* Homework notebook using HMM to decipher text [notebook](hmm-seminar.ipynb) This homework is worth 15 points and is due by the next class (17th Oct.).
+
+Please submit your results for TASK 5 from the hmm-seminar.ipynb.
+
+1. The decrypted text for each file from this directory:
+https://github.com/yandexdataschool/nlp_course/tree/2019/week05_em/encrypted 
+
+Please note I do not expect you to be able to perfectly decrypt the text using HMMs. Doing so, will be an indication that you used other methods and will not be counted.
+
+2. For each of the encrypted texts, please indicate the most likey author or book title using one of the file names from the following directory:
+https://github.com/yandexdataschool/nlp_course/tree/2019/week05_em/plaintext 
+E.g.
+0_encrypted.txt shakespeare.txt
+1_encrypted.txt mayakovsky.txt
+etc.
 
 
