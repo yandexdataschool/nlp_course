@@ -11,8 +11,6 @@ The Expectation-Maximization algorithm is a general algorithm for estimating mod
 Please submit your results for TASK 5 from the hmm-seminar.ipynb.
 
 1. The decrypted text for each file from the 'encrypted' directory using HMMs trained on any files you want to from the 'plaintext' directory:
-https://github.com/yandexdataschool/nlp_course/tree/2019/week05_em/encrypted 
-https://github.com/yandexdataschool/nlp_course/tree/2019/week05_em/plaintext
 
 Please submit this as a tarball archive (i.e. tar -cvzf results.tar.gz decrypted/*.txt)
 
@@ -22,8 +20,8 @@ Please note you should not be able to perfectly decrypt the text using HMMs. Doi
 
 Please submit this as a single text file in the following format:
 
-0_encrypted.txt shakespeare.txt
-1_encrypted.txt mayakovsky.txt
+0_encrypted.txt shakespeare.txt  
+1_encrypted.txt mayakovsky.txt  
 
 etc.
 
