@@ -14,13 +14,17 @@ Please submit your results for TASK 5 from the hmm-seminar.ipynb.
 https://github.com/yandexdataschool/nlp_course/tree/2019/week05_em/encrypted 
 https://github.com/yandexdataschool/nlp_course/tree/2019/week05_em/plaintext
 
+Please submit this as a tarball archive (i.e. tar -cvzf results.tar.gz decrypted/*.txt)
+
 Please note you should not be able to perfectly decrypt the text using HMMs. Doing so, will be an indication that you have used other methods and will not be counted!
 
-2. For each of the encrypted texts, please indicate the most likely author or book/volume title using one of the file names from the plaintext directory:
-E.g.
+2. For each of the encrypted texts, please indicate the most likely author or book/volume title using one of the file names from the plaintext directory. 
+
+Please submit this as a single text file in the following format:
+
 0_encrypted.txt shakespeare.txt
 1_encrypted.txt mayakovsky.txt
-etc.
 
+etc.
 
 
