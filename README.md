@@ -24,10 +24,13 @@
   - Seminar: Machine translation of hotel and hostel descriptions
   
 - [__week05__](./week05_em) __Expectation-Maximization__
-  - Lecture: Expectation-Maximization and Word Alignment Models
-  - Seminar: Implementing expectation maximizaiton
+  - Lecture: Expectation-Maximization and Hidden Markov Models
+  - Seminar: Implementing expectation maximization
 
-
+- [__week06__](./week06_mt) __Machine Translation__
+  - Lecture: Word Alignment Models, Noisy Channel, Machine Translation.
+  - Seminar: Introduction to word alignment assignment. 
+  
 # Contributors & course staff
 Course materials and teaching performed by
 - [Elena Voita](https://lena-voita.github.io) - course admin, lectures, seminars, homeworks
