@@ -6,7 +6,7 @@ The Expectation-Maximization algorithm is a general algorithm for estimating mod
 
 * (Slides ) [Generative models and EM](https://github.com/yandexdataschool/nlp_course/blob/2019/week05_em/generative_models_and_em.pdf) 
 * First exercise on MLE and EM [notebook](coins-seminar.ipynb)
-* Homework notebook using HMM to decipher text [notebook](hmm-seminar.ipynb) This homework is worth 15 points and is due by the next class (17th Oct.).
+* Homework notebook using HMM to decipher text [notebook](hmm-seminar.ipynb) This homework is worth 15 points and is due by the 24th Oct. 15.30 MSK time).
 
 Please submit your results for TASK 5 from the hmm-seminar.ipynb.
 
