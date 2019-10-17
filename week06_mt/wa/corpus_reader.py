@@ -1,46 +1,10 @@
 import os, sys, codecs
-
-def read_all_tokens(path):
-    return [line.strip().split() for line in codecs.open(path, 'r', 'utf8')]
-
-def parse_alignment(aligned_token):
-    parts = aligned_token.split('-')
-    assert len(parts) == 3, aligned_token
-    return int(parts[0]), int(parts[1]), parts[2]
-
-def read_alignments(path):
-    alignments = {}
-    for sent_index, line in enumerate(open(path)):
-        if sent_index not in alignments:
-            alignments[sent_index] = {}
-        for aligned_token in line.strip().split():
-            src_index, trg_index, kind = parse_alignment(aligned_token)
-            if trg_index not in alignments[sent_index]:
-                alignments[sent_index][trg_index] = {}
-            if src_index not in alignments[sent_index][trg_index]:
-                alignments[sent_index][trg_index][src_index] = []
-            alignments[sent_index][trg_index][src_index].append(kind)
-    return alignments
-
-def validate(src_corpus, trg_corpus, alignments):
-    assert len(src_corpus) == len(trg_corpus)
-    assert len(src_corpus) == len(alignments)
-    for i in range(len(src_corpus)):
-        for trg_index in alignments[i]:
-            assert trg_index >= 0
-            assert trg_index < len(trg_corpus[i])
-            for src_index in alignments[i][trg_index]:
-                assert src_index >= 0
-                assert src_index < len(src_corpus[i]), "sent: %s, %s %s" % (i, src_index, trg_index)
-    return True
+from utils import read_parallel_corpus
 
 class CorpusBrowser:
 
-    def __init__(self, src_path, trg_path, wa_path):
-        self.src_corpus_ = read_all_tokens(src_path)
-        self.trg_corpus_ = read_all_tokens(trg_path)
-        self.alignments_ = read_alignments(wa_path)
-        assert validate(self.src_corpus_, self.trg_corpus_, self.alignments_)
+    def __init__(self, path):
+        self.src_corpus_, self.trg_corpus_, self.alignments_ = read_parallel_corpus(path, has_alignments=True)
         self.sent_index_, self.src_index_, self.trg_index_, self.window_, self.token_size_ = (
             0, 0, 0, 10, 5)
         self.RefreshDisplay()
@@ -50,10 +14,9 @@ class CorpusBrowser:
         return truncated + ' ' * (self.token_size_ - len(truncated))
 
     def GetAlignment(self, src_index, trg_index):
-        if self.sent_index_ in self.alignments_:
-            if trg_index in self.alignments_[self.sent_index_]:
-                if src_index in self.alignments_[self.sent_index_][trg_index]:
-                    return ''.join(self.alignments_[self.sent_index_][trg_index][src_index])
+        if src_index in self.alignments_[self.sent_index_]:
+            if trg_index in self.alignments_[self.sent_index_][src_index]:
+                return ''.join(self.alignments_[self.sent_index_][src_index][trg_index])
         return ''
 
     def RefreshDisplay(self):
@@ -119,9 +82,9 @@ class CorpusBrowser:
         return True
 
 if __name__ == "__main__":
-    if not len(sys.argv) == 4:
-        print("Usage: python corpus_browser.py src_corpus trg_corpus word_alignments")
+    if not len(sys.argv) == 2:
+        print("Usage: python corpus_browser.py path.")
         sys.exit(0)
-    browser = CorpusBrowser(sys.argv[1], sys.argv[2], sys.argv[3])
+    browser = CorpusBrowser(sys.argv[1])
     while browser.HandleInput(input()):
         browser.RefreshDisplay()
