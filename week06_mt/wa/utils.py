@@ -5,6 +5,7 @@ def recall(reference, candidate):
     reference_sure, candidate_sure_correct = 0, 0
     assert len(reference) == len(candidate)
     for i, ref in enumerate(reference):
+        print(ref, candidate[i])
         for src_index in ref:
             for trg_index in ref[src_index]:
                 if ref[src_index][trg_index] == "S":
@@ -59,14 +60,14 @@ def validate(src_corpus, trg_corpus, alignments):
                 assert src_index < len(src_corpus[i]), '%s %d' % (len(src_corpus[i]), src_index)
     return True
 
-def extract_test_sets(aligned_corpus, test_sets={"dev" : (0, 800), "test" : (800, 1600), "blinds" : (1600, 2500)}):
-    "Extracts test sets from aligned corpus. Defaults are for file 'en-cs.all'."
+def extract_test_alignments(aligned_corpus, test_sets={"dev" : (0, 800), "test" : (800, 1600), "blinds" : (1600, 2500)}):
+    "Extracts aligned for test sets from aligned corpus. Defaults are for file 'en-cs.all'."
     aligned_sets = {} 
     for test, (start, end) in test_sets.items():
         if len(aligned_corpus) < end:
             print("skipping test set %s." % test)
             continue
-        aligned_sets[test] = [(src, trg, alignments) for src, trg, alignments in aligned_corpus[start:end]]
+        aligned_sets[test] = [alignments for src, trg, alignments in aligned_corpus[start:end]]
     return aligned_sets
 
 def parse_aligned_token(aligned_token):
