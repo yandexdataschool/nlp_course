@@ -53,10 +53,12 @@ As well as explaining the main ideas in the papers, please also pay attention to
   * [Revisiting Low-Resource Neural Machine Translation: A Case Study](https://arxiv.org/abs/1905.11901)
 
 7. Noisy Channel NMT
+  * [Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)
   * [The Neural Noisy Channel](https://arxiv.org/abs/1611.02554)
   * [Correcting Length Bias in Neural Machine Translation](http://statmt.org/wmt18/pdf/WMT022.pdf)
   * [Simple and Effective Noisy Channel Modeling for Neural Machine Translation](https://arxiv.org/abs/1908.05731)
   * [Putting Machine Translation in Context with the Noisy Channel Model](https://arxiv.org/abs/1910.00553)
+ 
 
 8. Alternative decoding strategies
   * [Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1711.02281.pdf)
