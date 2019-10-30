@@ -66,6 +66,7 @@ As well as explaining the main ideas in the papers, please also pay attention to
   * [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](https://arxiv.org/abs/1902.03249)
   * [Insertion-based Decoding with automatically Inferred Generation Order](https://arxiv.org/abs/1902.01370)
   * [Efficient Bidirectional Neural Machine Translation](https://arxiv.org/pdf/1908.09329.pdf)
+  * [Dynamic Past and Future for Neural Machine Translation](https://arxiv.org/pdf/1904.09646.pdf)
 
 9. Edit-Based Models
   * [Search Engine Guided Non-Parametric Neural Machine Translation](https://arxiv.org/abs/1705.07267)	
