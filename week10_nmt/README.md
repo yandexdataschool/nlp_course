@@ -51,6 +51,8 @@ As well as explaining the main ideas in the papers, please also pay attention to
   * [Zero-Shot Dual Machine Translation](https://arxiv.org/abs/1805.10338)
   * [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
   * [Revisiting Low-Resource Neural Machine Translation: A Case Study](https://arxiv.org/abs/1905.11901)
+  * [Massively Multilingual Neural Machine Translation
+in the Wild](https://arxiv.org/pdf/1907.05019.pdf)
 
 7. Noisy Channel NMT
   * [Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)
