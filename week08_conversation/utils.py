@@ -7,6 +7,8 @@ import pandas as pd
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
+import nltk
+nltk.download('punkt')
 from nltk.tokenize import sent_tokenize, WordPunctTokenizer
 tokenizer = WordPunctTokenizer()
 tokenize = lambda sent: ' '.join(tokenizer.tokenize(sent.lower()))
