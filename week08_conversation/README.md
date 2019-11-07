@@ -21,5 +21,5 @@ We could only find a few related materials in either language.
 
 
 ## Practice
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week08_conversation/seminar.ipynb)
 As usual, open seminar notebook for your framework and follow instructions from there.
