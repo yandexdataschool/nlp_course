@@ -41,7 +41,7 @@ TaggingQuality = collections.namedtuple('TaggingQuality', ['acc'])
 
 def tagging_quality(ref, out):
     """
-    Compute tagging quality and reutrn TaggingQuality object.
+    Compute tagging quality and return TaggingQuality object.
     """
     nwords = 0
     ncorrect = 0
