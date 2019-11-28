@@ -6,6 +6,7 @@ Building on the EM algorithm from last week, we will look at how word alignments
 
 * (Intro ) [Hands on task](https://github.com/yandexdataschool/nlp_course/blob/2019/week06_mt/centauri_arcturan.pdf) 
 * (Slides) [Word alignments](https://github.com/yandexdataschool/nlp_course/blob/2019/week06_mt/word_alignment.pdf) 
+* (Videos) [part1](https://yadi.sk/i/3tvn0eGg96VRZA), [part2](https://yadi.sk/i/qn19dYPx1AD92w)
 * (Notes ) [Word alignment notes](https://github.com/yandexdataschool/nlp_course/blob/2019/week06_mt/word_alignment_notes.pdf) 
 * (Slides) [Machine Translation (part 1)](https://github.com/yandexdataschool/nlp_course/blob/2019/week06_mt/mt_lecture_part1.pdf) 
 * (Slides) [Machine Translation (part 2)](https://github.com/yandexdataschool/nlp_course/blob/2019/week06_mt/mt_lecture_part1.pdf) 
