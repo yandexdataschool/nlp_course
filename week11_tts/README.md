@@ -1,7 +1,7 @@
 
 
 ### Materials:
-* Slides: __TBA__
+* Slides: [here](../resources/slides/TTS-shad.pdf)
 * Interactive demo of how human throat produces sound - [click here](https://dood.al/pinktrombone/)
 * More useful links coming :)
 
