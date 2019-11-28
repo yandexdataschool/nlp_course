@@ -4,7 +4,8 @@ Today's lecture will cover generative models, maximum likelihood estimation from
 
 The Expectation-Maximization algorithm is a general algorithm for estimating models when some variables are not observed. We'll eventually use it to learn alignments between words in parallel text, but today we'll focus on some toy examples and some deciphering problems.
 
-* (Slides ) [Generative models and EM](https://github.com/yandexdataschool/nlp_course/blob/2019/week05_em/generative_models_and_em.pdf) 
+* (Slides) [Generative models and EM](https://github.com/yandexdataschool/nlp_course/blob/2019/week05_em/generative_models_and_em.pdf) 
+* (Videos) [part1](https://yadi.sk/i/4LcSl4Lg4B6Rsg), [part2](https://yadi.sk/i/v5LEWUQKRPpO3g)
 * First exercise on MLE and EM [notebook](coins-seminar.ipynb)
 * Homework notebook using HMM to decipher text [notebook](hmm-seminar.ipynb) This homework is worth 15 points and is due by the 24th Oct. 15.30 MSK time).
 
