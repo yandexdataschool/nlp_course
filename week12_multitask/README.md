@@ -9,4 +9,4 @@ __Lecture [slides](https://github.com/yandexdataschool/nlp_course/blob/master/re
 Intro: using bert in tf2.0 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EJuMPW7TDVDGB1wDCIayx22jutcwLQlE)
 
 Homework: as usual, open homework.ipynb and follow instructions from there
-[![Open In Colab](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week12_multitask/homework.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week12_multitask/homework.ipynb)
