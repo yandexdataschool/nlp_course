@@ -8,7 +8,7 @@
 
 # Syllabus
 - [__week01__](./week01_embeddings) __Embeddings__
-  - Lecture: Word embeddings. Distributional semantics, LSA, Word2Vec, GloVe. Why and when we need them.
+  - Lecture: Word embeddings. Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. Evaluation: intrinsic vs extrinsic. Analysis and Interpretability
   - Seminar: Playing with word and sentence embeddings.
 
 More TBA
