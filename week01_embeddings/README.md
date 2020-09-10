@@ -13,7 +13,7 @@ Unless explicitly said otherwise, all subsequent weeks follow the same pattern (
 
 If you have any difficulties with notebooks, just open them in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2020/week01_embeddings/seminar.ipynb).
 
-### Lecture-blog, research thinking exercises, related papers and fun: ![NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_word_emb)
+### [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_word_emb) ![logo](../resources/course_logo.png): Lecture-blog, research thinking exercises, related papers and fun: 
 ![embedding_space_walk](../resources/word_embeddings.gif)
 
 ### More materials (optional)
