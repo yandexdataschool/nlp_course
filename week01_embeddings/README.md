@@ -17,6 +17,8 @@ If you have any difficulties with notebooks, just open them in [![Open In Colab]
 ### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_word_emb) 
 ![lecture_preview](../resources/word_embeddings.gif)
 
+![embedding_space_walk](../resources/walk_through_space.gif)
+
 ### More materials (optional)
 * On hierarchical & sampled softmax estimation for word2vec [page](http://ruder.io/word-embeddings-softmax/)
 * GloVe project [page](https://nlp.stanford.edu/projects/glove/)
