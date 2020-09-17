@@ -11,6 +11,14 @@ Your task for this week is to get past two notebooks: `./homework_part1.ipynb` a
 
 The second part of homework requires you to train a deep neural network. See `./seminar.ipynb` for problem description, tips and tricks.
 
+### Lecture-blog, research thinking exercises, related papers and fun: 
+#### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_text_clf) 
+![lecture_preview](../resources/text_classification.gif)
+
+### Dataset viewer:
+#### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course/text_classification.html#dataset_examples) 
+![dataset_viewer](../resources/classification_dataset_viewer.gif)
+
 
 ### More Materials
 * Colah's blog on convolutions, including text convolutions - [url](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
