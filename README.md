@@ -9,11 +9,13 @@
 # Syllabus
 - [__week01__](./week01_embeddings) __Word Embeddings__
   - Lecture: Word embeddings. Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. Evaluation: intrinsic vs extrinsic. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_word_emb)
-  - Seminar: Playing with word and sentence embeddings.
+  - Seminar: Playing with word and sentence embeddings
+  - Homework: Embedding-based machine translation system
 
 - [__week02__](./week02_classification) __Text Classification__
   - Lecture: Text classification: introduction and datasets. General framework: feature extractor + classifier. Classical approaches: Naive Bayes, MaxEnt (Logistic Regression), SVM. Neural Networks: General View, Convolutional Models, Recurrent Models. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_text_clf)
-  - Seminar: TBA
+  - Seminar: Text classification with convolutional NNs.
+  - Homework: Statistical & neural text classification.
 
 More TBA
 
