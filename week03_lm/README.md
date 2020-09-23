@@ -10,12 +10,6 @@ Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 
 As usual, `./seminar.ipynb` and `./homework.ipynb` awaits you :)
 
-#### Training RNN-LM:
-![rnn_lm_training](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/how_to_train_lm.gif)
-
-#### How to generate text using N-gram LM:
-![text_generation_by_lm](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/how_to_generate_text_by_lm.gif)
-
 ### More materials
 * CS231 lecture on RNNs - [video](https://www.youtube.com/watch?v=iX5V1WpxxkY) (english)
 * A more detailed lecture by Y. Bengio - [video](https://www.youtube.com/watch?v=xK-bzjIQkmM)
