@@ -1,7 +1,7 @@
 
 
 ### Materials
-* Lecture [__slides__](https://github.com/yandexdataschool/nlp_course/blob/2019/resources/slides/nlp19_03_language_models.pdf)
+* Lecture slides - __TBA__
 * Our videos (russian) - [lecture](https://yadi.sk/i/ygaphbkfZinu8g), [seminar](https://yadi.sk/i/UXa6vq2FZ5IASg)
 * Stanford nlp videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
