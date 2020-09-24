@@ -8,7 +8,7 @@
 ### Practice
 Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2019/week03_lm/seminar.ipynb)
 
-As usual, `./seminar.ipynb` and `./homework.ipynb` awaits you :)
+As usual, `./seminar.ipynb` and `./homework_*.ipynb` awaits you :)
 
 ### More materials
 * CS231 lecture on RNNs - [video](https://www.youtube.com/watch?v=iX5V1WpxxkY) (english)
