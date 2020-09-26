@@ -1,5 +1,5 @@
 ### Text Classification
-- [__lecture slides__] - __TBA__
+- [__lecture slides__](https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view?usp=sharing)
 - Our lecture videos (russian): [__lecture__](https://yadi.sk/i/6HQc8122IL0fIQ), [__seminar__](https://yadi.sk/i/xRwCZEzp0DkL4g)
 * Stanford NLP lecture: [__text convolutions__](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
@@ -13,11 +13,11 @@ The second part of homework requires you to train a deep neural network. See `./
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
 #### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_text_clf) 
-![lecture_preview](../resources/text_classification.gif)
+![lecture_preview](../resources/nlp2020_gifs/text_classification.gif)
 
 ### Dataset viewer:
 #### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course/text_classification.html#dataset_examples) 
-![dataset_viewer](../resources/classification_dataset_viewer.gif)
+![dataset_viewer](../resources/nlp2020_gifs/classification_dataset_viewer.gif)
 
 
 ### More Materials
