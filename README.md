@@ -19,8 +19,8 @@
   
 - [__week03__](./week03_lm) __Language Modeling__
   - Lecture: Language Modeling: what does it mean? Left-to-right framework. N-gram language models. Neural Language Models: General View, Recurrent Models, Convolutional Models. Evaluation. Practical Tips: Weight Tying. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_lang_models)
-  - Seminar: TBA
-  - Homework: TBA
+  - Seminar: Build a N-gram language model from scratch
+  - Homework: Neural LMs & smoothing in count-based models.
 
 More TBA
 
