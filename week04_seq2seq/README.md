@@ -5,7 +5,7 @@
 * Alternative CMU lectures - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20) and [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
 
 ### Practice
-This time we're gonna use a shared `practice_and_homework.ipynb` for both seminar and homework.
+This time we're gonna use a shared `practice_and_homework_pytorch.ipynb` for both seminar and homework. (use `_tf` for tensorflow version)
 
 Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2020/week04_seq2seq/practice_and_homework_pytorch.ipynb).
 
