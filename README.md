@@ -24,8 +24,8 @@
   
 - [__week04__](./week04_seq2seq) __Seq2seq and Attention__
   - Lecture: Seq2seq Basics: Encoder-Decoder framework, Training, Simple Models, Inference (e.g., beam search). Attention: general, score functions, models. Transformer: self-attention, masked self-attention, multi-head attention; model architecture. Subword Segmentation (BPE). Analysis and Interpretability: functions of attention heads; probing for linguistic structure. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_seq2seq_attn)
-  - Seminar: TBU
-  - Homework: TBU
+  - Seminar: Basic sequence to sequence model
+  - Homework: Machine translation with attention
 
 More TBA
 
