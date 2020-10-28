@@ -1,4 +1,4 @@
-__Lecture [slides](https://github.com/yandexdataschool/nlp_course/blob/master/resources/slides/lecture9_domain_adaptation.pdf)__
+__Lecture [slides](./lecture.pdf)__
 
 # More materials
 * Russian videos: [lecture](https://yadi.sk/i/Zewa7ZmKoyvEPQ), [seminar](https://yadi.sk/i/sbQXa4gh1xh77g)
