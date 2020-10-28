@@ -27,6 +27,11 @@
   - Seminar: Basic sequence to sequence model
   - Homework: Machine translation with attention
 
+
+- [__week06__](./week06_da) __Domain Adaptation__
+  - Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
+  - Seminar+Homework: BERT-based NER domain adaptation
+
 More TBA
 
 # Contributors & course staff
