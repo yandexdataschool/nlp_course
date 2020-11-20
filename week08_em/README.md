@@ -9,6 +9,6 @@
 
 ## Homework 
 
-Homework using Hidden Markov models to solve substition ciphers. Please submit to anytask by 1st Dec. 23.59.
+Homework using Hidden Markov models to solve substition ciphers. Please submit to anytask by 2nd Dec. 03:00
 
 [Directory](./homework) contains a notebook, some plaintext and encrypted text and some slides on HMMs.
