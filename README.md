@@ -38,7 +38,7 @@
   
   
 - [__week12__](./week12_summarization) __Text Summarization__
-  - __Invited__ Lecture by Arthur Bražinskas, University of Edinburgh. Intro: different views on summarization. Extractive vs abstractive summarization, evaluation. Overview of the two main domains: news summarization and opinion summarization. Abstractive summarization: pointer-generator network and moden approaches (BertSum, BART, MeanSum, Copycat). Few-shot learning for opinion summarization.
+  - __Invited__ Lecture by Arthur Bražinskas, University of Edinburgh. Intro: different views on summarization. Extractive vs abstractive summarization, evaluation. Overview of the two main domains: news summarization and opinion summarization. Abstractive summarization: pointer-generator network and modern approaches (BertSum, BART, MeanSum, Copycat). Few-shot learning for opinion summarization.
 
 More TBA
 
