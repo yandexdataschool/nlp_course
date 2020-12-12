@@ -26,11 +26,19 @@
   - Lecture: Seq2seq Basics: Encoder-Decoder framework, Training, Simple Models, Inference (e.g., beam search). Attention: general, score functions, models. Transformer: self-attention, masked self-attention, multi-head attention; model architecture. Subword Segmentation (BPE). Analysis and Interpretability: functions of attention heads; probing for linguistic structure. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_seq2seq_attn)
   - Seminar: Basic sequence to sequence model
   - Homework: Machine translation with attention
+  
+- [__week05__](./week05_transfer) __Transfer Learning__
+  - Lecture: What is Transfer Learning? Great idea 1: From Words to Words-in-Context (CoVe, ELMo). Great idea 2: From Replacing Embeddings to Replacing Models (GPT, BERT). (A Bit of) Adaptors. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_transfer)
 
 
 - [__week06__](./week06_da) __Domain Adaptation__
   - Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
   - Seminar+Homework: BERT-based NER domain adaptation
+  
+  
+  
+- [__week12__](./week12_summarization) __Text Summarization__
+  - __Invited__ Lecture by Arthur Bražinskas, University of Edinburgh. Intro: different views. Extractive vs abstractive summarization, evaluation. Overview of the two main domains: news summarization and opinion summarization. Abstractive summarization: pointer-generator network and moden approaches (BertSum, BART, MeanSum, Copycat). Few-shot learning for opinion summarization.
 
 More TBA
 
