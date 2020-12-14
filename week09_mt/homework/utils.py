@@ -5,12 +5,12 @@ def recall(reference, candidate):
     reference_sure, candidate_sure_correct = 0, 0
     assert len(reference) == len(candidate)
     for i, ref in enumerate(reference):
-        for src_index in ref:
-            for trg_index in ref[src_index]:
-                if ref[src_index][trg_index] == "S":
+        for trg_index in ref:
+            for src_index in ref[trg_index]:
+                if ref[trg_index][src_index] == "S":
                     reference_sure += 1
-                    if src_index in candidate[i]:
-                        if trg_index in candidate[i][src_index]:
+                    if trg_index in candidate[i]:
+                        if src_index in candidate[i][trg_index]:
                             candidate_sure_correct += 1
     return reference_sure, candidate_sure_correct
 
@@ -19,11 +19,11 @@ def precision(reference, candidate):
     candidate_correct_any, candidate_total = 0, 0
     assert len(reference) == len(candidate)
     for i, cand in enumerate(candidate):
-        for src_index in cand:
-            for trg_index in cand[src_index]:
+        for trg_index in cand:
+            for src_index in cand[trg_index]:
                 candidate_total += 1
-                if src_index in reference[i]:
-                    if trg_index in reference[i][src_index]:
+                if trg_index in reference[i]:
+                    if src_index in reference[i][trg_index]:
                         candidate_correct_any += 1
     return candidate_total, candidate_correct_any
 
@@ -99,8 +99,8 @@ def read_parallel_corpus(path, has_alignments=False):
 
 def alignment_string(alignments):
     align_strings = []
-    for src_index, trg_indices in alignments.items():
-        for trg_index, kind in trg_indices.items():
+    for trg_index, src_indices in alignments.items():
+        for src_index, kind in src_indices.items():
             align_strings.append('%d-%d-%s' % (src_index, trg_index, kind))
     return ' '.join(align_strings)
 

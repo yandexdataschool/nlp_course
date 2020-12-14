@@ -14,9 +14,9 @@ class CorpusBrowser:
         return truncated + ' ' * (self.token_size_ - len(truncated))
 
     def GetAlignment(self, src_index, trg_index):
-        if src_index in self.alignments_[self.sent_index_]:
-            if trg_index in self.alignments_[self.sent_index_][src_index]:
-                return ''.join(self.alignments_[self.sent_index_][src_index][trg_index])
+        if trg_index in self.alignments_[self.sent_index_]:
+            if src_index in self.alignments_[self.sent_index_][trg_index]:
+                return ''.join(self.alignments_[self.sent_index_][trg_index][src_index])
         return ''
 
     def RefreshDisplay(self):
