@@ -1,4 +1,4 @@
-* Lecture [__slides__](https://github.com/yandexdataschool/nlp_course/blob/2020/resources/slides/nlp2020_compression_acceleration.pdf), [video](https://yadi.sk/i/j1zM5M-TGvtG8w) (russian)
+* Lecture [__slides__](https://github.com/yandexdataschool/nlp_course/blob/2020/resources/slides/nlp2020_compression_acceleration.pdf), [video](https://yadi.sk/i/Ihdr-t9tYgsaMA) (russian)
 * Related [lecture](https://www.youtube.com/watch?v=CrDRr2fxbsg) (english, but not for NLP)
 * Seminar - a copycat of this [TensorflowJS tutorial](https://www.tensorflow.org/js/tutorials/training/linear_regression)
 
