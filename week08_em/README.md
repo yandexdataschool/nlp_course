@@ -2,6 +2,7 @@
 
 [Slides](./week08_em/statistical_modelling.pdf) used during the lecture covering Bayesian inference, generative models, expectation-maximization etc.
 
+[video 1](https://yadi.sk/i/j1zM5M-TGvtG8w), [video 2](https://yadi.sk/i/t7aeEHbKrqBJug)
 
 ## Seminar
 
