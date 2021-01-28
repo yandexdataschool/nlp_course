@@ -2,7 +2,7 @@
 
 ### Materials
 - [__lecture slides__](https://drive.google.com/file/d/1wQ8VRiKLxfqAndLh3Djr1jIMixacznQF/view?usp=sharing)
-* Our videos (russian) - [lecture](https://yadi.sk/i/ygaphbkfZinu8g), [seminar](https://yadi.sk/i/UXa6vq2FZ5IASg)
+* Our videos (russian) - [lecture](https://yadi.sk/i/xONJD2llbRbwlA), [seminar](https://yadi.sk/i/UXa6vq2FZ5IASg)
 * Stanford nlp videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
 ### Practice
