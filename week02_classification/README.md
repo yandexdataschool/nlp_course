@@ -1,6 +1,6 @@
 ### Text Classification
 - [__lecture slides__](https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view?usp=sharing)
-- Our lecture videos (russian): [__lecture__](https://yadi.sk/i/yeSeiiL3F_CDgA), [__seminar__](https://yadi.sk/i/xRwCZEzp0DkL4g)
+- Our lecture videos (russian): [__lecture__](https://yadi.sk/i/yeSeiiL3F_CDgA), [__seminar__](https://yadi.sk/i/sS-ZVy0LMs_zPw)
 * Stanford NLP lecture: [__text convolutions__](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
 ## Practice
