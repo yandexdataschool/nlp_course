@@ -1,6 +1,6 @@
 ### Materials
 * __Lecture [slides](../resources/slides/nlp19_04_seq2seq_attention.pdf)__
-* Our videos (russian): [lecture](https://yadi.sk/i/3y9JX6Q_0ZLqpA), [seminar](https://yadi.sk/i/cB5606vgbOlBog)
+* Our videos (russian): [lecture](https://yadi.sk/i/3y9JX6Q_0ZLqpA), [seminar](https://yadi.sk/i/GW3av0UdPgF15w)
 * Stanford lecture on seq2seq and MT (english) - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 * Alternative CMU lectures - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20) and [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
 
