@@ -3,7 +3,7 @@ __Slides - [click here](../resources/slides/20191107_shad_dialogs.pdf)__
 ![img](https://raw.githubusercontent.com/yandexdataschool/nlp_course/master/resources/task_oriented_dialog_systems.gif)
 
 # Materials
-* Our [lecture](https://yadi.sk/i/6_NKQn0cCvFLVQ) [seminar](https://yadi.sk/i/H9ysab5AiSrM4Q)
+* Our [lecture](https://yadi.sk/i/4e_vqRDqwVGiFA), [seminar](https://yadi.sk/i/fXdPLFsauvwNbQ)
 
 ### More materials
 We could only find a few related materials in either language.
