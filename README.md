@@ -1,5 +1,5 @@
 # YSDA Natural Language Processing course
-* This is the 2020 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/2019)
+* This is the 2021 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/2020)
 * Lecture and seminar materials for each week are in ./week* folders, see README.md for materials and instructions
 * YSDA homework deadlines will be listed in Anytask ([read more](https://github.com/yandexdataschool/nlp_course/wiki/Homeworks-and-grading)).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
@@ -34,11 +34,6 @@
 - [__week06__](./week06_da) __Domain Adaptation__
   - Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
   - Seminar+Homework: BERT-based NER domain adaptation
-  
-  
-  
-- [__week12__](./week12_summarization) __Text Summarization__
-  - __Invited__ Lecture by Arthur Bražinskas, University of Edinburgh. Intro: different views on summarization. Extractive vs abstractive summarization, evaluation. Overview of the two main domains: news summarization and opinion summarization. Abstractive summarization: pointer-generator network and modern approaches (BertSum, BART, MeanSum, Copycat). Few-shot learning for opinion summarization.
 
 More TBA
 
