@@ -6,7 +6,7 @@
 * Stanford nlp videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
 ### Practice
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2020/week03_lm/seminar.ipynb)
+Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2021/week03_lm/seminar.ipynb)
 
 As usual, `./seminar.ipynb` and `./homework_*.ipynb` awaits you :)
 
