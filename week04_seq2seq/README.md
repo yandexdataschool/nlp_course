@@ -1,6 +1,6 @@
 ### Materials
 * [__Lecture slides__](https://drive.google.com/file/d/1inle88uyRI-a3ghxdVrqhhmukqywb3Hy/view?usp=sharing) 
-* Our videos (russian): [lecture](https://yadi.sk/i/CX1M4cKnTuC3kg), [seminar](https://yadi.sk/i/GW3av0UdPgF15w)
+* Our videos (russian): [lecture](https://disk.yandex.ru/i/6s7Aot00FLtBbQ), [seminar](https://disk.yandex.ru/i/qdPDJSYIO1UlCw)
 * Stanford lecture on seq2seq and MT (english) - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 * Alternative CMU lectures - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20) and [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
 
