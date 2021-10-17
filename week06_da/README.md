@@ -20,7 +20,7 @@ homework.ipynb
 
 ### General articles
 
-- **Neural Unsupervised Domain Adaptation in NLP---A Survey** by Alan Ramponi, Barbara Plank, 2021 [[article]](Alan Ramponi, Barbara Plank)
+- **Neural Unsupervised Domain Adaptation in NLP---A Survey** by Alan Ramponi, Barbara Plank, 2021 [[article]](https://arxiv.org/abs/2006.00632)
 
 #### Theory
 - **Learning Bounds for Domain Adaptation** Blitzer et al. 2007 [[article]](https://papers.nips.cc/paper/3212-learning-bounds-for-domain-adaptation)
