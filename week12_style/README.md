@@ -2,7 +2,7 @@
 
 ## More materials
 
-* Russian videos: [lecture](#), [seminar](#) !!TBD!!
+* Russian videos: [lecture](https://disk.yandex.ru/i/3JSqKFtgK8S0Tg), [seminar](https://disk.yandex.ru/i/L7qFldlvY5PO_g) !!TBD!!
 
 ## Papers
 
