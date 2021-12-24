@@ -6,6 +6,9 @@
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
 
 
+# [NLP Course For You](https://lena-voita.github.io/nlp_course.html)
+
+
 # Syllabus
 - [__week01__](./week01_embeddings) __Word Embeddings__
   - Lecture: Word embeddings. Distributional semantics. Count-based (pre-neural) methods. Word2Vec: learn vectors. GloVe: count, then learn. Evaluation: intrinsic vs extrinsic. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_word_emb)
@@ -34,16 +37,39 @@
 - [__week06__](./week06_da) __Domain Adaptation__
   - Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
   - Seminar+Homework: BERT-based NER domain adaptation
+  
+- [__week07__](./week07_compression) __Model compression and acceleration__
 
-More TBA
+- [__week08__](./week08_em) __Probabilistic inference, generative models and hidden variables__
+
+- [__week09__](./week09_mt) __Machine translation__
+
+- [__week10__](./week10_relation_extraction) __Relation extraction__
+
+- [__week11__](./week11_summarization) __Summarization__
+
+- [__week12__](./week12_style) __Style Transfer__
+
+- [__week13__](./week13_conversation) __Dialogue systems__
+
+- [__week14__](./week14_ai_ml_generated_art) __AI & ML generated art__
+
 
 # Contributors & course staff
 Course materials and teaching performed by
 - [Elena Voita](https://lena-voita.github.io) - course admin, lectures, seminars, homeworks
 - [Boris Kovarsky](https://github.com/kovarsky) - lectures, seminars, homeworks
 - [David Talbot](https://github.com/drt7) - lectures, seminars, homeworks
-- [Sergey Gubanov](https://github.com/esgv) - lectures, seminars, homeworks
 - [Just Heuristic](https://github.com/justheuristic) - lectures, seminars, homeworks
+- [Alexey Tikhonov @altsoph](https://github.com/altsoph)
+- [Michael Sejr Schlichtkrull](http://michschli.github.io)
+- [Arthur Bražinskas](https://github.com/abrazinskas/)
+- [Ivan Yamshchikov](https://twitter.com/kr0niker)
+- [Nikolay Zinov](https://github.com/nzinov)
 
-
-
+# Authors and contributors of previous years
+- [Sergey Gubanov](https://github.com/esgv)
+- [Vyacheslav Alipov](https://research.yandex.com/people/301832)
+- Vladimir Kirichenko
+- Andrey Zhigunov
+- Pavel Bogomolov
