@@ -1,8 +1,8 @@
 # Lecture on Text Style Transfer (by [altsoph@](https://github.com/altsoph)) [slides](./202112_shad_text_style_transfer.pdf)
 
-## More materials
+## Materials
 
-* Russian videos: [lecture](https://disk.yandex.ru/i/3JSqKFtgK8S0Tg), [seminar](https://disk.yandex.ru/i/L7qFldlvY5PO_g) !!TBD!!
+* Russian videos: [lecture](https://disk.yandex.ru/i/3JSqKFtgK8S0Tg), [seminar](https://disk.yandex.ru/i/L7qFldlvY5PO_g)
 
 ## Papers
 
