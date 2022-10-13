@@ -6,7 +6,7 @@
 * A related [video](https://www.youtube.com/watch?v=_eSGWNqKeeY) tutorial for document classification (english)
 
 ### Practice
-* Seminar - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2021/week05_transfer/seminar.ipynb) 
+* Seminar - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2022/week05_transfer/seminar.ipynb) 
 
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
