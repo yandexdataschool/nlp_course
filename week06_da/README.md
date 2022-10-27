@@ -1,7 +1,8 @@
 __Lecture [slides](./lecture.pdf)__
 
 # More materials
-* Russian videos: [lecture](https://yadi.sk/i/Zewa7ZmKoyvEPQ), [seminar](https://yadi.sk/i/sbQXa4gh1xh77g)
+* Russian videos (2021): [lecture and practice](https://disk.yandex.ru/i/Phpjg0S7UYthGQ)
+* Materials '2020 : [lecture](https://yadi.sk/i/Zewa7ZmKoyvEPQ), [seminar](https://yadi.sk/i/sbQXa4gh1xh77g)
 * An overview of proxy-label approaches for semi-supervised learning - [blog post](http://ruder.io/semi-supervised/)
 * A Little Review of Domain Adaptation in 2017 - [blog post](https://artix41.github.io/static/domain-adaptation-in-2017/index.html)
 * Awesome Transfer Learning  - list of papers [repo](https://github.com/artix41/awesome-transfer-learning)
