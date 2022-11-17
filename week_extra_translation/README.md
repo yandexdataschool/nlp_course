@@ -1,13 +1,14 @@
 ## Lecture
 
 [Slides 1](./week_extra_translation/statistical_modelling.pdf) used during the lecture covering Bayesian inference, generative models, expectation-maximization etc.
+
 [Slides 2](./shad-mt-lecture-2021-final.pdf) by [David Talbot](https://github.com/drt7) on statistical machine translation.
 
 [video 1](https://yadi.sk/i/j1zM5M-TGvtG8w), [video 2](https://yadi.sk/i/t7aeEHbKrqBJug)
 
 ## Seminar
 
-[Notebook](./week_extra_translation/mle_em_seminar.ipynb) on maximum likelihood and missing data with expectation maximzation algorithm.
+[Notebook](./mle_em_seminar.ipynb) on maximum likelihood and missing data with expectation maximzation algorithm.
 
 ## Homework
 
