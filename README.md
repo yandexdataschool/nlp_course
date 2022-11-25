@@ -34,6 +34,14 @@
 - [__week06__](./week06_da) __Domain Adaptation__
   - Lecture: General theory. Instance weighting. Proxy-labels methods. Feature matching methods. Distillation-like methods.
   - Seminar+Homework: BERT-based NER domain adaptation
+  
+- [__week07__](./week07_compression) __Model deployment, compression & acceleration__
+  - Lecture: how nlp models get deployed; how (and why) make your model faster and/or smaller
+  - No assignment this time; instead, we showcase running a simple ML model in your browser
+
+- [__week08__](./week08_llm) __Large Language Models & Their Implications__
+  - Lecture: more BERTology; Large language models: GPT-3, OPT, BLOOM; in-context learning, prompt engineering, parameter-efficient fine-tuning
+  - Practice: prompt engineering and LoRA on a 6.7B model in colab
 
 More TBA
 
