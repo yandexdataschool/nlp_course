@@ -75,3 +75,8 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+# Data
+week01_embeddings/quora.txt
+week01_embeddings/cc.ru.300.vec*
+week01_embeddings/cc.uk.300.vec*
