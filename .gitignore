@@ -81,3 +81,4 @@ week01_embeddings/quora.txt
 week01_embeddings/cc.ru.300.vec*
 week01_embeddings/cc.uk.300.vec*
 week02_classification/Train_rev1.*
+week03_lm/arxivData*
