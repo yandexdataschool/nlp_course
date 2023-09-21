@@ -1,6 +1,6 @@
 ### Word embeddings
 - [__lecture slides__](https://drive.google.com/file/d/1y2GKIKBzie7l8iycBO6gTKGiTTfJc4Dr/view?usp=sharing)
-- Our videos: [__lecture__](https://disk.yandex.ru/i/PbqlnI7XyNPwrg), [__seminar__](https://disk.yandex.ru/i/t4P2-R1Kk7GR1g)
+- Our videos: [__lecture__](https://disk.yandex.ru/i/v6Xbh2j0bmxfOg), [__seminar__](https://disk.yandex.ru/i/t4P2-R1Kk7GR1g)
 - Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
 
 
