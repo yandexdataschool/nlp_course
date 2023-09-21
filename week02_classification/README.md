@@ -5,7 +5,7 @@
 
 ## Practice
 
-Seminar [colab url](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2022/week02_classification/seminar.ipynb)
+Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2022/week02_classification/seminar.ipynb)
 
 Your task for this week is to get past two notebooks: `./homework_part1.ipynb` and... you guessed it, `./homework_part2.ipynb`. 
 
