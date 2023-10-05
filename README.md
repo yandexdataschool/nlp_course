@@ -1,5 +1,5 @@
 # YSDA Natural Language Processing course
-* This is the 2023 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/2020)
+* This is the 2023 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/2022)
 * Lecture and seminar materials for each week are in ./week* folders, see README.md for materials and instructions
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
