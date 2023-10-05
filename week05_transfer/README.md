@@ -1,7 +1,7 @@
 
 ### Materials
 * [__Lecture slides__](https://drive.google.com/file/d/1ueMYgH3qhsjn3X6K_mcnMvYjjh9Zvl01/view?usp=sharing) 
-* Our videos (russian) - [lecture](https://disk.yandex.ru/i/aWmk4LrVotbArg), [seminar](https://disk.yandex.ru/i/-0vzr1mAooLIiQ)
+* Our videos (russian) - [lecture](https://disk.yandex.ru/i/dGm4IJ0ykm3CWg), [seminar](https://disk.yandex.ru/i/wbGB6c7eYMftmQ)
 * Huggingface quickstart [tutorial](https://huggingface.co/transformers/quickstart.html) (recommended)
 * A related [video](https://www.youtube.com/watch?v=_eSGWNqKeeY) tutorial for document classification (english)
 
