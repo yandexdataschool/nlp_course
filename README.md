@@ -30,8 +30,8 @@
   - Lecture: What is Transfer Learning? Great idea 1: From Words to Words-in-Context (CoVe, ELMo). Great idea 2: From Replacing Embeddings to Replacing Models (GPT, BERT). (A Bit of) Adaptors. Analysis and Interpretability. [Interactive lecture materials and more.](https://lena-voita.github.io/nlp_course.html#preview_transfer)
 
 
-- [__week06 (TBU)__]() __LLMs and Prompting__
-  - Lecture: Scaling laws. Emergent abilities. Prompting (aka "in-context learning"): techiques that work; questioning whether model "understands" prompts. Hypotheses for why and how in-context learning works.
+- [__week06__](./week6_llm) __LLMs and Prompting__
+  - Lecture: Scaling laws. Emergent abilities. Prompting (aka "in-context learning"): techiques that work; questioning whether model "understands" prompts. Hypotheses for why and how in-context learning works. Analysis and Interpretability.
   
 
 
@@ -40,7 +40,7 @@ More TBA
 # Contributors & course staff
 Course materials and teaching performed by
 - [Elena Voita](https://lena-voita.github.io) - course admin, lectures, seminars, homeworks
-- [Just Heuristic](https://github.com/justheuristic) - lectures, seminars, homeworks
+- [Just Heuristic](https://github.com/justheuristic) - course admin, lectures, seminars, homeworks
 
 
 
