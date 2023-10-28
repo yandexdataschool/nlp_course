@@ -40,7 +40,8 @@ More TBA
 # Contributors & course staff
 Course materials and teaching performed by
 - [Elena Voita](https://lena-voita.github.io) - course admin, lectures, seminars, homeworks
-- [Just Heuristic](https://github.com/justheuristic) - course admin, lectures, seminars, homeworks
-
-
+- [Valentina Broner](https://www.hse.ru/org/persons/831207784/?_gl=1%2a1hz2yht%2a_ga%2aMTg3MTM2ODIwMS4xNjk4NTEyODg5%2a_ga_D145P1R4PL%2aMTY5ODUxMjg4OC4xLjAuMTY5ODUxMjg4OC42MC4wLjA.) - course admin for on-campus students
+- [Boris Kovarsky](https://github.com/kovarsky), [David Talbot](https://github.com/drt7), [Sergey Gubanov](https://github.com/esgv), [Just Heuristic](https://github.com/justheuristic) - help build course materials and/or held some classes
+- [30+ open-source contributors](https://github.com/yandexdataschool/nlp_course/graphs/contributors) who contributed and refined the notebooks and course materials. Without their help, the course would not be what it is today
+- [A mighty host of TAs](https://lk.yandexdataschool.ru/courses/2023-autumn/7.1171-avtomaticheskaia-obrabotka-tekstov/) who stoically grade hundreds of homework submissions from on-campus students each year
 
