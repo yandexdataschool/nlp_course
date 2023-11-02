@@ -1,4 +1,4 @@
-__Lecture [slides](./lecture.pdf)__
+__Lecture [slides](./lecture.pdf)__ - by Boris Kovarsky
 
 # More materials
 * Russian videos (2021): [lecture and practice](https://disk.yandex.ru/i/Phpjg0S7UYthGQ)
@@ -10,7 +10,7 @@ __Lecture [slides](./lecture.pdf)__
 
 ## Practice
 
-Optoinal assignment: `./homework.ipynb`
+Optional assignment: `./homework.ipynb`
 
 ## Videos
 - **The Future of Natural Language Processing** by Thomas Wolf [[youtube]](https://www.youtube.com/watch?v=G5lmya6eKtc)
