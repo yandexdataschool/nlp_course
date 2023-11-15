@@ -10,7 +10,7 @@ __Videos (english):__
 
 
 
-__Practice assignment:__ coming soon!
+__Practice assignment:__ ./practice.ipynb,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2023/week07_peft/practice.ipynb)
 
 
 
