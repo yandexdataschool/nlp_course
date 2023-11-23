@@ -1,4 +1,3 @@
-This week's materials are still being updated.
 
 __Slides:__ [./lecture_llm_tricks.pdf](./lecture_llm_tricks.pdf)
 
