@@ -16,6 +16,7 @@ __Practice assignment:__ [./practice.ipynb](./practice.ipynb) ,  [![Open In Cola
 __Extra materials (model architecture):__
 - https://github.com/CarperAI/trlx - an alternative to trl designed for larger models
 - A more detailed explanation of the reinforcement learning algorithms used in RLHF: [part 1](https://github.com/yandexdataschool/Practical_RL/tree/240c989fb1cca52effc289c4033438fa67af1e20/week06_policy_based) and [part 2](https://github.com/yandexdataschool/Practical_RL/tree/240c989fb1cca52effc289c4033438fa67af1e20/week09_policy_II)
+- Antropic's take on aligning LLMs - [Constitutional AI](https://arxiv.org/abs/2212.08073)
 - Earlier works on reinforcement learning for natural language generation:
   * [task-oriented conversation system](https://arxiv.org/abs/1703.07055)
   * [generating dialogues](https://arxiv.org/abs/1606.01541)
