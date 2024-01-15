@@ -1,0 +1,28 @@
+version: '2.3'
+services:
+  nlp-ragilyazev:
+    runtime: nvidia
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    image: nlp-ragilyazev
+    container_name: nlp-ragilyazev
+    environment:
+      - TZ=MSK
+      - PYTHONUNBUFFERED=1
+      - JUPYTER_PASSWORD=$JUPYTER_PASSWORD
+      - DS_VERTICA_USERNAME=$DS_VERTICA_USERNAME
+      - DS_VERTICA_PASSWORD=$DS_VERTICA_PASSWORD
+      - DS_VERTICA_PORT=5435
+      - USERNAME=$USER
+      - OPENBLAS_NUM_THREADS=8
+      - DEV=true
+    volumes:
+      - $ROOT_DIR/nlp_course:/app
+      - $DATA_DIR/nlp_course:/data
+    ports:
+      - "8055:8888"
+      - "8086:6006"
+    shm_size: 16G
+    command: /bin/bash -c \ "cd / && jupyter notebook --allow-root --ip=0.0.0.0 --NotebookApp.allow_origin_pat=https://.*vscode-cdn\\.net && nohup tensorboard --logdir /data/tensorboard/ --bind_all && sleep infinity"
+    restart: unless-stopped
