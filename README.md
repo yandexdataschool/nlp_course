@@ -31,7 +31,7 @@
   - Homework: fine-tuning a pre-trained BERT model
 
 
-- [__week06__](./week6_llm) __LLMs and Prompting__
+- [__week06__](./week06_llm) __LLMs and Prompting__
   - Lecture: Scaling laws. Emergent abilities. Prompting (aka "in-context learning"): techiques that work; questioning whether model "understands" prompts. Hypotheses for why and how in-context learning works. Analysis and Interpretability.
   - Homework: manual prompt engneering and chain-of-thought reasoning
 
