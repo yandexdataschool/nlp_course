@@ -11,7 +11,6 @@ RUN echo "deb http://archive.ubuntu.com/ubuntu trusty-backports main restricted 
                        zlib1g-dev \
                        libjpeg-dev \
                        xvfb \
-                       libav-tools \
                        xorg-dev \
                        python-opengl \
                        python-dev \
