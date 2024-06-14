@@ -31,16 +31,28 @@
   - Homework: fine-tuning a pre-trained BERT model
 
 
-- [__week06__](./week6_llm) __LLMs and Prompting__
+- [__week06__](./week06_llm) __LLMs and Prompting__
   - Lecture: Scaling laws. Emergent abilities. Prompting (aka "in-context learning"): techiques that work; questioning whether model "understands" prompts. Hypotheses for why and how in-context learning works. Analysis and Interpretability.
   - Homework: manual prompt engneering and chain-of-thought reasoning
 
-- [__week07__] __Transformer architecture and training__
+- [__week07__](./week07_peft) __Transformer architecture and training__
   - Lecture: training tips for transformers; the evolution of transformer architecture from Vaswani et al (2017) to modern LLMs; parameter-efficient fine-tuning (PEFT)
   - Homework: fine-tuning a large language model with PEFT algorithms
 
+- [__week08__](./week08_rlhf) __Reinforcement Learning from Human Feedback__
+  - Lecture: model alignment, RLHF, case study of InstructGPT and ChatGPT
+  - Homework: fine-tune your own language model with RL (using HuggingFace `trl`)
 
-More TBA
+- [__week09 (extra)__](./week_extra/domain_adaptation) __Domain Adaptation in NLP__
+  - Lecture: why do domain adaptation? Methods:  reweighting, proxy labels, adversarial domain adaptation
+  - Optional homework: implement domain adaptation when fine-tuning BERT models
+
+- [__week10___](./week10_efficiency) __Efficient Inference in NLP__
+  - Lecture: how NLP models are deployed, a survey of compression and acceleration: quantization, sparsification, ACT & more
+  - Practice: implement RTN and GPTQ for 4-bit LLM quantization
+
+- [__week11 (extra)___](./week_extra/retrieval) __Retrieval Augmented Language Models__
+  - Guest lecture: retrieval in LMs, token-level retrieval (KNNLM & more), RAG, RETRO, tools: langchain , HF Agents, open problems
 
 # Contributors & course staff
 Course materials and teaching performed by
