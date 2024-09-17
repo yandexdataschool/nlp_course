@@ -1,7 +1,7 @@
 ### Word embeddings
 - [__lecture slides__](https://drive.google.com/file/d/1y2GKIKBzie7l8iycBO6gTKGiTTfJc4Dr/view?usp=sharing)
 - Our videos: [__lecture__](https://disk.yandex.ru/i/v6Xbh2j0bmxfOg), [__seminar__](https://disk.yandex.ru/i/t4P2-R1Kk7GR1g)
-- Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english)
+- Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=ERibwqs9p38) (english) [same from 2021](https://www.youtube.com/watch?v=rmVRLeJRkl4)
 
 
 ### Practice & homework
@@ -23,7 +23,7 @@ If you have any difficulties with notebooks, just open them in [![Open In Colab]
 
 ### More materials (optional)
 * On hierarchical & sampled softmax estimation for word2vec [page](http://ruder.io/word-embeddings-softmax/)
+* [Alternative explanation of Word2Vec negative sampling](https://arxiv.org/pdf/1402.3722.pdf)
 * GloVe project [page](https://nlp.stanford.edu/projects/glove/)
 * FastText project [repo](https://github.com/facebookresearch/fastText)
 * Another cool link that you could have shared, but decided to hesitate. Or did you?
-
