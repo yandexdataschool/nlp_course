@@ -1,5 +1,5 @@
 # YSDA Natural Language Processing course
-* This is the 2023 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/2022)
+* This is the 2024 version. For previous year' course materials, go to [this branch](https://github.com/yandexdataschool/nlp_course/tree/2023)
 * Lecture and seminar materials for each week are in ./week* folders, see README.md for materials and instructions
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
@@ -56,7 +56,8 @@
 
 # Contributors & course staff
 Course materials and teaching performed by
-- [Elena Voita](https://lena-voita.github.io) - course admin, lectures, seminars, homeworks
+- [Elena Voita](https://lena-voita.github.io) - course author
+- [Mikhail Diskin] [Ignat Romanov] [Ruslan Svirschevski] - lectures
 - [Valentina Broner](https://www.hse.ru/org/persons/831207784/?_gl=1%2a1hz2yht%2a_ga%2aMTg3MTM2ODIwMS4xNjk4NTEyODg5%2a_ga_D145P1R4PL%2aMTY5ODUxMjg4OC4xLjAuMTY5ODUxMjg4OC42MC4wLjA.) - course admin for on-campus students
 - [Boris Kovarsky](https://github.com/kovarsky), [David Talbot](https://github.com/drt7), [Sergey Gubanov](https://github.com/esgv), [Just Heuristic](https://github.com/justheuristic) - help build course materials and/or held some classes
 - [30+ volunteers](https://github.com/yandexdataschool/nlp_course/graphs/contributors) who contributed and refined the notebooks and course materials. Without their help, the course would not be what it is today
