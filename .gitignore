@@ -79,3 +79,4 @@ debian/files
 .venv/
 
 week01_embeddings/embeddings/
+week01_embeddings/quora.txt
