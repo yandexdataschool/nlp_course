@@ -1,10 +1,16 @@
-### Prompting & in-context learning
+## Prompting & in-context learning
 
-
+### Materials
 - [Lecture slides](https://docs.google.com/presentation/d/1W0Aib9ITrchNooXM081uP1Boio1GZrxb/edit?slide=id.g39c64119ace_0_848#slide=id.g39c64119ace_0_848) 
 - Video (in russian): **will appear soon**
-- Practice session: [seminar.ipynb](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week06_prompting/seminar.ipynb) -- **HOMEWORK TBA!**
   <!-- - Optional demo for combining LLMs and web search via HF Agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/demo_agents.ipynb) -->
+
+### Practice
+* Seminar - [seminar.ipynb](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week06_prompting/seminar.ipynb)
+* Homework: `./homework.ipynb`
+* If you are enrolled for this course, you may submit only __homewor.ipynb__ notebook into the grading system.
+
+
 
 
 Applications mentioned in the lecture or seminar:
