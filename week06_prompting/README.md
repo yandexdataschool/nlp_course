@@ -1,13 +1,13 @@
-### Large language models
+### Prompting & in-context learning
 
 
-- [Lecture slides](https://drive.google.com/file/d/1IOx71suOn8uF_AbNrPhQxjnNNA5UGQY1/view?usp=share_link) 
-- Video (in russian): [lecture](https://disk.yandex.ru/i/O1oEoThF0h02GA), [practice](https://disk.yandex.ru/d/A-giSxCD1ydPzA)
-- Practice session: [practice.ipynb](./practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/practice.ipynb)
-  - Optional demo for combining LLMs and web search via HF Agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/demo_agents.ipynb)
+- [Lecture slides](https://docs.google.com/presentation/d/1W0Aib9ITrchNooXM081uP1Boio1GZrxb/edit?slide=id.g39c64119ace_0_848#slide=id.g39c64119ace_0_848) 
+- Video (in russian): **will appear soon**
+- Practice session: [seminar.ipynb](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week05_llm/seminar.ipynb)
+  <!-- - Optional demo for combining LLMs and web search via HF Agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/demo_agents.ipynb) -->
 
 
-Applications mentioned in the lecture:
+Applications mentioned in the lecture or seminar:
 - [the Gandalf game](https://gandalf.lakera.ai/) by Lakera.ai
 - [aidungeon.com](https://play.aidungeon.com/) - an LLM-generated role-playing game
 - [ora.ai](https://ora.ai) - a tool to build your own chatbot with prompting
@@ -23,8 +23,6 @@ Some of those models require you to apply for access, and model authors may take
 
 Extra materials:
 - Glitch tokens (lecture mentions SolidGoldMagikarp) - [blog post by Jessica Rumbelow, mwatkins](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
-- ["Sparks of AGI"](https://arxiv.org/abs/2303.12712) - a controversial but influential paper about worrying LLM abilities
-- [BigBench](https://github.com/google/BIG-bench) - a benchmark of emergent LLM abilities mentioned in the slides
 - Chain of thought papers: Few-shot: [Wei et al. (2022) few-shot](https://arxiv.org/abs/2201.11903)
 - A guide to prompt injection and jailbreaking: https://learnprompting.org/docs/prompt_hacking/injection
 - A repo with popular jailbreaks for GPTx models: https://github.com/0xk1h0/ChatGPT_DAN
