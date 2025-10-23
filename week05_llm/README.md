@@ -1,8 +1,8 @@
 ### Large language models
 
-## Attention: links are still to-be-added, collab link works correctly, everythink else is still to be updated
+## Attention: links for lecture slides and seminar notebook (collab) are up to date
 
-- [Lecture slides](https://drive.google.com/file/d/1IOx71suOn8uF_AbNrPhQxjnNNA5UGQY1/view?usp=share_link) 
+- [Lecture slides](https://docs.google.com/presentation/d/1kqtAPArk481cDLgSA_Mt0yUbypzDJLMQ/edit?usp=sharing&ouid=114346045969351679204&rtpof=true&sd=true) 
 - Video (in russian): [lecture](https://disk.yandex.ru/i/O1oEoThF0h02GA), [practice](https://disk.yandex.ru/d/A-giSxCD1ydPzA)
 - Practice session: [seminar.ipynb](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week05_llm/seminar.ipynb)
   <!-- - Optional demo for combining LLMs and web search via HF Agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/demo_agents.ipynb) -->
