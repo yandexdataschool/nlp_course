@@ -9,7 +9,7 @@ __Videos (english):__
 
 
 
-__Practice assignment:__ [./seminar.ipynb](./seminar.ipynb) ,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week07_finetuning/seminar.ipynb)
+__Practice assignment:__ [./seminar.ipynb](./seminar.ipynb) ,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week07_finetuning/seminar.ipynb) (this is part 1 for 5 points, part 2 will be posted below)
 
 **HOMEWORK PART 2: TO BE UPDATED**
 
