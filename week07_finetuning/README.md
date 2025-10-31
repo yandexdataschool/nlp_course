@@ -9,11 +9,9 @@ __Videos (english):__
 
 
 
-__Practice assignment:__ [./seminar.ipynb](./seminar.ipynb) ,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week07_finetuning/seminar.ipynb) (this is part 1 for 5 points, part 2 will be posted below)
-
-**HOMEWORK PART 2: TO BE UPDATED**
-
-
+__Practice assignment:__ 2 assignments, worth 5 points each (with bonus point opportunities)
+- [./seminar.ipynb](./seminar.ipynb) ,  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week07_finetuning/seminar.ipynb)
+- [./homework.ipynb](./homework.ipynb) - this one has an optional hardcore RL fine-tuning assignment at the end, you don't have to do that unless you're interested in RL.
 
 
 __Extra materials (model architecture):__
