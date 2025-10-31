@@ -1,5 +1,5 @@
 
-__Slides:__ [./lecture_llm_tricks.pdf](./lecture_llm_tricks.pdf)
+__Slides:__ [./lecture.pdf](./lecture.pdf)
 
 __Videos (russian):__ [lecture](https://disk.yandex.ru/i/vwudqAlP2gKO-Q) and [seminar](https://disk.yandex.ru/d/L1vjSeaqQfDugw)
 
