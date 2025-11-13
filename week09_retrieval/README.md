@@ -7,7 +7,7 @@
 
 
 Old practice materials (deprecated)
-Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2023/week_extra/retrieval/practice.ipynb)
+Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week09_retrieval/practice.ipynb)
 
 Materials (russian):
 - [lecture](https://disk.yandex.ru/i/TsPYmpEQNXRxDw)
