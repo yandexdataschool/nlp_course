@@ -8,7 +8,8 @@
 
 
 Open-source models mentioned in the lecture:
-- LLaMA-2 - https://huggingface.co/meta-llama/Llama-2-70b
+- Qwen - https://huggingface.co/Qwen
+- LLaMA - https://huggingface.co/meta-llama/
 - Falcon - https://huggingface.co/tiiuae/falcon-180B
 - BLOOM - https://huggingface.co/bigscience/bloom
 
