@@ -2,8 +2,8 @@
 
 ### Materials
 - [Lecture slides](https://docs.google.com/presentation/d/1W0Aib9ITrchNooXM081uP1Boio1GZrxb/edit?slide=id.g39c64119ace_0_848#slide=id.g39c64119ace_0_848) 
-- Video (in russian): **will appear soon**
-  <!-- - Optional demo for combining LLMs and web search via HF Agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2024/week06_llm/demo_agents.ipynb) -->
+- Video (in russian): [lecture](https://disk.yandex.ru/i/ne_AqUt3yCssXg) [seminar](https://disk.yandex.ru/i/3F9OFJvghNwOFA)
+- English videos: [lecture on reasoning](https://www.youtube.com/watch?v=ebnX5Ur1hBk) | [Google MOOC on prompting](https://www.coursera.org/specializations/prompting-essentials-google)
 
 ### Practice
 * Seminar - [seminar.ipynb](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week06_prompting/seminar.ipynb)
@@ -18,14 +18,6 @@ Applications mentioned in the lecture or seminar:
 - [aidungeon.com](https://play.aidungeon.com/) - an LLM-generated role-playing game
 - [ora.ai](https://ora.ai) - a tool to build your own chatbot with prompting
 - this is not an exhaustive list: there's a million of various applications using LLMs
-
-Open-source models mentioned in the lecture:
-- LLaMA-2 - https://huggingface.co/meta-llama/Llama-2-70b
-- Falcon - https://huggingface.co/tiiuae/falcon-180B
-- BLOOM - https://huggingface.co/bigscience/bloom
-
-Some of those models require you to apply for access, and model authors may take time to process your application. While you are waiting for your license to be processed, you may wish to browse the huggingface hub for alternative (e.g. quantized) versions of the same model that are available immediately with no application. For example, here's a [LLaMA-2-70B](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GPTQ) quantized to 4-bit and available using the same `transformers.AutoModelForCausalLM.from_pretrained` syntax. Please note that, while the hub allows you to download and use those model versions without officially applying for access to LLaMA-2, the original model's license may restrict this kind of usage.
-
 
 Extra materials:
 - Glitch tokens (lecture mentions SolidGoldMagikarp) - [blog post by Jessica Rumbelow, mwatkins](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
