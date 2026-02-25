@@ -3,7 +3,7 @@
 ### Materials
 - Lecture slides: [`./lecture_interpretability.pdf`](./lecture_interpretability.pdf) ([Google Slides](https://docs.google.com/presentation/d/1M4HlX314q8lVqBNdkAfdmvKyTkKUgpJHJksfzCqnPkk/edit))
 - Video (Russian): [lecture](https://disk.yandex.ru/i/Db-0Fvx9J0nbSw), [seminar](https://disk.yandex.ru/i/UopX0dLWSOMCig)
-- Video (English): [lecture](https://www.youtube.com/watch?v=vRQs7qfIDaU)
+- From other courses (English): [lecture](https://www.youtube.com/watch?v=vRQs7qfIDaU)
 
 ### Practice
 - Seminar: [`./seminar_interpretability.ipynb`](./seminar_interpretability.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week11_interpretability/seminar_interpretability.ipynb)

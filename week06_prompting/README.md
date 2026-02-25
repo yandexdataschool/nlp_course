@@ -3,7 +3,7 @@
 ### Materials
 - Lecture slides: [`./lecture_prompting.pdf`](./lecture_prompting.pdf) ([Google Slides](https://docs.google.com/presentation/d/1W0Aib9ITrchNooXM081uP1Boio1GZrxb/edit))
 - Video (Russian): [lecture](https://disk.yandex.ru/i/ne_AqUt3yCssXg), [seminar](https://disk.yandex.ru/i/3F9OFJvghNwOFA)
-- Video (English): [lecture on reasoning](https://www.youtube.com/watch?v=ebnX5Ur1hBk) | [Google MOOC on prompting](https://www.coursera.org/specializations/prompting-essentials-google)
+- From other courses (English): [lecture on reasoning](https://www.youtube.com/watch?v=ebnX5Ur1hBk) | [Google MOOC on prompting](https://www.coursera.org/specializations/prompting-essentials-google)
 
 ### Practice
 - Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week06_prompting/seminar.ipynb)
