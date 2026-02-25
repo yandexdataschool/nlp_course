@@ -1,15 +1,15 @@
-### Word embeddings
-- [__slides 1__](https://drive.google.com/file/d/1y2GKIKBzie7l8iycBO6gTKGiTTfJc4Dr/view?usp=sharing), [__slides 2__](https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view?usp=sharing)
-- (Russian) Our videos: [__lecture 1__](https://disk.yandex.ru/i/v6Xbh2j0bmxfOg), [__lecture 2__](https://disk.yandex.ru/i/LKNGEr4_6GffzA), [__seminar__](https://disk.yandex.ru/i/t4P2-R1Kk7GR1g)
-- (English) Lecture video from Stanford CS224N - [__intro__](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [__embeddings__](https://www.youtube.com/watch?v=rmVRLeJRkl4), [__text classification__](https://www.youtube.com/watch?v=nzSPZyjGlWI)
+## Week 01: Word Embeddings
 
+### Materials
+- Lecture slides: [Google Drive (embeddings)](https://drive.google.com/file/d/1y2GKIKBzie7l8iycBO6gTKGiTTfJc4Dr/view), [Google Drive (classification)](https://drive.google.com/file/d/1f7vQGNRe1PQi6WnEdCZbtf_zmx6fF8g1/view)
+- Video (Russian): [lecture & seminar](https://disk.yandex.ru/i/mygl3L-gzgbUfA)
+- Video (English): Stanford CS224N - [intro](https://www.youtube.com/watch?v=OQQ-W_63UgQ), [embeddings](https://www.youtube.com/watch?v=rmVRLeJRkl4), [text classification](https://www.youtube.com/watch?v=nzSPZyjGlWI)
 
-### Practice & homework
+### Practice
 The practice for this week takes place in notebooks. Just open them and follow instructions from there.
-* __Seminar:__ [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week01_embeddings/seminar.ipynb).
-* __Homework:__ [`./homework.ipynb`](./homework.ipynb)
-
-**Enrolled students, submit both** `seminar.ipynb` and `homework.ipynb` to the LMS system for a full points!
+- Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week01_embeddings/seminar.ipynb)
+- Homework: [`./homework.ipynb`](./homework.ipynb)
+- **Enrolled students:** Submit both `seminar.ipynb` and `homework.ipynb` to the LMS system for full points!
 
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
