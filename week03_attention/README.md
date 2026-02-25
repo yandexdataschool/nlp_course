@@ -1,7 +1,7 @@
 ## Week 03: Seq2seq and Attention
 
 ### Materials
-- Lecture slides: [Google Drive](https://drive.google.com/file/d/1inle88uyRI-a3ghxdVrqhhmukqywb3Hy/view)
+- Lecture slides: [Google Drive](https://docs.google.com/presentation/d/1O2A22-gN6BB7WPfWUHXuGzCm88_NTuHq/edit?usp=sharing&ouid=106859861310420466947&rtpof=true&sd=true) 
 - Video (Russian): [lecture](https://disk.yandex.ru/i/fQHnwptCHH2Owg), [seminar](https://disk.yandex.ru/i/DKCQJU-VG0vVcQ)
 - Video (English): Stanford - [seq2seq and MT](https://www.youtube.com/watch?v=IxQtK2SjWWM) | CMU - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20), [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
 
