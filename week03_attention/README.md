@@ -1,13 +1,13 @@
+## Week 03: Seq2seq and Attention
+
 ### Materials
-* [__Lecture slides__](https://drive.google.com/file/d/1inle88uyRI-a3ghxdVrqhhmukqywb3Hy/view?usp=sharing) 
-* Our videos (russian): [lecture](https://disk.yandex.ru/i/dw2pITTCXTWXeA), [seminar](https://disk.yandex.ru/i/zBqTYJeoClnozw)
-* Stanford lecture on seq2seq and MT (english) - [video](https://www.youtube.com/watch?v=IxQtK2SjWWM)
-* Alternative CMU lectures - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20) and [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
+- Lecture slides: [Google Drive](https://drive.google.com/file/d/1inle88uyRI-a3ghxdVrqhhmukqywb3Hy/view)
+- Video (Russian): [lecture](https://disk.yandex.ru/i/fQHnwptCHH2Owg), [seminar](https://disk.yandex.ru/i/DKCQJU-VG0vVcQ)
+- Video (English): Stanford - [seq2seq and MT](https://www.youtube.com/watch?v=IxQtK2SjWWM) | CMU - [seq2seq](https://www.youtube.com/watch?v=aHkgjfKvIhk&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE&index=20), [attention](https://www.youtube.com/watch?v=ullLRKZ99qQ&index=21&list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE)
 
 ### Practice
-This time we're gonna use a shared `new_practice_and_homework.ipynb` for both seminar and homework.
-
-Seminar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week03_attention/new_practice_and_homework.ipynb).
+This time we're using a shared notebook for both seminar and homework.
+- Practice & Homework: [`./new_practice_and_homework.ipynb`](./new_practice_and_homework.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week03_attention/new_practice_and_homework.ipynb)
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
 #### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_seq2seq_attn) 

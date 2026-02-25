@@ -1,13 +1,14 @@
-* Lecture [__slides__](./lecture_efficiency.pdf)
-* Russian materials: [lecture](https://disk.yandex.ru/i/ph1wAYngwtKaOA), [hw overview](https://disk.yandex.ru/i/ALt5fFURfhdl7A)
-* English materials: [LLM efficiency overview](https://www.youtube.com/watch?v=jbHgzU4r7yU) | [LLM speculative decoding](https://www.youtube.com/watch?v=hm7VEgxhOvk)
+## Week 08: Efficiency
 
-# Practice
+### Materials
+- Lecture slides: [`./lecture_efficiency.pdf`](./lecture_efficiency.pdf)
+- Video (Russian): [lecture](https://disk.yandex.ru/i/ph1wAYngwtKaOA), [homework overview](https://disk.yandex.ru/i/ALt5fFURfhdl7A)
+- Video (English): [LLM efficiency overview](https://www.youtube.com/watch?v=jbHgzU4r7yU) | [LLM speculative decoding](https://www.youtube.com/watch?v=hm7VEgxhOvk)
 
-[`./hw_8.ipynb`](./hw_8.ipynb) : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week08_efficiency/hw_8.ipynb)
+### Practice
+- Homework: [`./hw_8.ipynb`](./hw_8.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week08_efficiency/hw_8.ipynb)
 
-
-# Extra materials:
+### Extra materials
 
 * Max Ryabinin's sister cource in efficient DL: https://github.com/mryab/efficient-dl-systems
 * Efficient training: mixed precision, distributed, etc: https://www.youtube.com/watch?v=UVX7SYGCKkA
@@ -22,8 +23,3 @@
 * [SmoothQuant paper](https://arxiv.org/abs/2211.10438)
 * [SmoothQuant repo](https://github.com/mit-han-lab/smoothquant)
 * Related [lecture](https://www.youtube.com/watch?v=CrDRr2fxbsg) (english, but not for NLP)
-
-
-
-
-

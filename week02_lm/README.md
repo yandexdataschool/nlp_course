@@ -1,14 +1,13 @@
-
+## Week 02: Language Models
 
 ### Materials
-- [__lecture slides__](https://docs.google.com/presentation/d/16CTpXAYwIiVuv8nbe729C4_olGYwilhH/edit?usp=sharing&ouid=106859861310420466947&rtpof=true&sd=true)
-* Our videos (russian) - [lecture](https://disk.yandex.ru/i/NKyh_2Lw8U5h0g), [seminar](https://disk.yandex.ru/d/5-ngGyipKHwmaQ)
-* Stanford nlp videos: [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
+- Lecture slides: [`./lecture_lm.pdf`](./lecture_lm.pdf) ([Google Slides](https://docs.google.com/presentation/d/16CTpXAYwIiVuv8nbe729C4_olGYwilhH/edit))
+- Video (Russian): [lecture](https://disk.yandex.ru/i/E4NlokgRT6Ci6g), [seminar](https://disk.yandex.ru/i/mSewi0SUky5h6g)
+- Video (English): Stanford NLP - [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
 ### Practice
-Seminar: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week02_lm/seminar.ipynb)
-
-As usual, `./seminar.ipynb` and `./homework_*.ipynb` await you :)
+- Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week02_lm/seminar.ipynb)
+- Homework: `./homework_*.ipynb`
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
 #### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_lang_models) 
