@@ -17,8 +17,8 @@
 - this is not an exhaustive list: there's a million of various applications using LLMs
 
 ### Extra materials
-- Glitch tokens (lecture mentions SolidGoldMagikarp) - [blog post by Jessica Rumbelow, mwatkins](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
-- Chain of thought papers: Few-shot: [Wei et al. (2022) few-shot](https://arxiv.org/abs/2201.11903)
+
+- Chain of thought: [Wei et al. (2022)](https://arxiv.org/abs/2201.11903)
 - A guide to prompt injection and jailbreaking: https://learnprompting.org/docs/prompt_hacking/injection
 - A repo with popular jailbreaks for GPTx models: https://github.com/0xk1h0/ChatGPT_DAN
 - A ton of other cool stuff linked in the lecture slides (see the top of this readme)

@@ -4,7 +4,7 @@
 - Lecture slides: [`./lecture.pdf`](./lecture.pdf)
 - Video (Russian): [lecture](https://disk.yandex.ru/i/Axjf2u-hWDLAMw), [seminar](https://disk.yandex.ru/i/I_rAisZlK22FLA)
 - From other courses (English): [EMNLP tutorial on PEFT](https://www.youtube.com/watch?v=KoOlcX3XLd4) (3.5h) | [MunichNLP short version](https://www.youtube.com/watch?v=StdrAJZsmw4) | [Hugging Face RLHF tutorial](https://www.youtube.com/watch?v=2MBJOuVq380)
-- Optional: [lecture on task-driven chatbots](https://yadi.sk/i/4e_vqRDqwVGiFA) (Russian) | [lecture on conversation systems](https://disk.yandex.ru/i/XR1-8CghVOIK7A) (English)
+- Optional: [lecture on task-driven chatbots](https://disk.yandex.ru/i/4e_vqRDqwVGiFA) (Russian) | [lecture on conversation systems](https://disk.yandex.ru/i/XR1-8CghVOIK7A) (English)
 
 ### Practice
 2 assignments, worth 5 points each (with bonus point opportunities)
@@ -14,7 +14,7 @@
 ### Extra materials (RL finetuning & alignment)
 - https://github.com/CarperAI/trlx - an alternative to trl designed for larger models
 - A more detailed explanation of the reinforcement learning algorithms used in RLHF: [part 1](https://github.com/yandexdataschool/Practical_RL/tree/240c989fb1cca52effc289c4033438fa67af1e20/week06_policy_based) and [part 2](https://github.com/yandexdataschool/Practical_RL/tree/240c989fb1cca52effc289c4033438fa67af1e20/week09_policy_II)
-- Antropic's take on aligning LLMs - [Constitutional AI](https://arxiv.org/abs/2212.08073)
+- Anthropic's take on aligning LLMs - [Constitutional AI](https://arxiv.org/abs/2212.08073)
 - Earlier works on reinforcement learning for natural language generation:
   - [task-oriented conversation system](https://arxiv.org/abs/1703.07055)
   - [generating dialogues](https://arxiv.org/abs/1606.01541)

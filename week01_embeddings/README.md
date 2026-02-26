@@ -33,6 +33,6 @@ The practice for this week takes place in notebooks. Just open them and follow i
 - [Alternative explanation of Word2Vec negative sampling](https://arxiv.org/pdf/1402.3722.pdf)
 - GloVe project [page](https://nlp.stanford.edu/projects/glove/)
 - FastText project [repo](https://github.com/facebookresearch/fastText)
-- Another cool link that you could have shared, but decided to hesitate. Or did you?
+
 - Colah's blog on convolutions, including text convolutions - [url](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - Same architectures applied for music - [blog post](http://benanne.github.io/2014/08/05/spotify-cnns.html)

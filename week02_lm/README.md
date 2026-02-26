@@ -7,7 +7,7 @@
 
 ### Practice
 - Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week02_lm/seminar.ipynb)
-- Homework: `./homework_*.ipynb`
+- Homework: [`./homework_pytorch.ipynb`](./homework_pytorch.ipynb)
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
 #### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_lang_models) 
