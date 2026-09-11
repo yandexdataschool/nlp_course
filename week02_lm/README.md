@@ -6,15 +6,15 @@
 - From other courses (English): Stanford NLP - [N-gram language models](https://archive.org/details/41IntroductionToNGramsStanfordNLPProfessorDanJurafskyChrisManning/), [neural language models](https://www.youtube.com/watch?v=Keqep_PKrY8)
 
 ### Practice
-- Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week02_lm/seminar.ipynb)
+- Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2026/week02_lm/seminar.ipynb)
 - Homework: [`./homework_pytorch.ipynb`](./homework_pytorch.ipynb)
 
-### Lecture-blog, research thinking exercises, related papers and fun: 
-#### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_lang_models) 
+### Lecture-blog, research thinking exercises, related papers and fun:
+#### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_lang_models)
 ![lecture_preview](../resources/nlp2020_gifs/language_modeling.gif)
 
 ### Play with softmax temperature:
-#### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course/language_modeling.html#generation_strategies_temperature) 
+#### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course/language_modeling.html#generation_strategies_temperature)
 ![softmax_temperature_demo](../resources/nlp2020_gifs/softmax_temperature.gif)
 
 
