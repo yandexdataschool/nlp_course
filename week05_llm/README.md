@@ -5,7 +5,7 @@
 - Video (Russian): [lecture & practice](https://disk.yandex.ru/i/_7cKg_NyNBqnsg)
 
 ### Practice
-- Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week05_llm/seminar.ipynb)
+- Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2026/week05_llm/seminar.ipynb)
 - Homework: see instructions in [`./homework/README.md`](./homework/README.md)
 
 ### Open-source models mentioned in the lecture:

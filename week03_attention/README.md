@@ -7,7 +7,7 @@
 
 ### Practice
 This time we're using a shared notebook for both seminar and homework.
-- Practice & Homework: [`./practice_and_homework.ipynb`](./practice_and_homework.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week03_attention/practice_and_homework.ipynb)
+- Practice & Homework: [`./practice_and_homework.ipynb`](./practice_and_homework.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2026/week03_attention/practice_and_homework.ipynb)
 
 ### Lecture-blog, research thinking exercises, related papers and fun: 
 #### ![logo](../resources/course_logo.png) [NLP Course For You](https://lena-voita.github.io/nlp_course.html#preview_seq2seq_attn) 
