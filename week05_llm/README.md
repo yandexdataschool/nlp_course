@@ -1,11 +1,12 @@
 ## Week 05: Large Language Models
 
 ### Materials
-- Lecture slides: [`./lecture_llm.pdf`](./lecture_llm.pdf) ([Google Slides](https://docs.google.com/presentation/d/1kqtAPArk481cDLgSA_Mt0yUbypzDJLMQ/edit))
-- Video (Russian): [lecture & practice](https://disk.yandex.ru/i/hv66j4yuYZWlBw)
+- Lecture slides: [`./lecture_llm.pdf`](./lecture_llm.pdf) ([Google Slides](https://docs.google.com/presentation/d/1Gklql_r2DsArtx2GePqd0FX3bt75GMOj/edit?usp=sharing&ouid=114346045969351679204&rtpof=true&sd=true))
+- Video (Russian): [lecture & practice](https://disk.yandex.ru/i/_7cKg_NyNBqnsg)
 
 ### Practice
 - Seminar: [`./seminar.ipynb`](./seminar.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/nlp_course/blob/2025/week05_llm/seminar.ipynb)
+- Homework: see instructions in [`./homework/README.md`](./homework/README.md)
 
 ### Open-source models mentioned in the lecture:
 - Qwen - https://huggingface.co/Qwen
