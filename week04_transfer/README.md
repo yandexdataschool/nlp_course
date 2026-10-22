@@ -1,6 +1,9 @@
 ## Week 04: Transfer Learning
 
-Additional materials will be available soon.
+### Materials
+- Video (Russian): [lecture & practice](https://disk.yandex.ru/i/k86XToKZCmkbdA)
+
+- Additional materials will be available soon.
 
 ### Practice
 
