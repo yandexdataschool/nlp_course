@@ -1,0 +1,3 @@
+torch==2.13.0
+transformers==5.14.1
+pytest==8.4.2
