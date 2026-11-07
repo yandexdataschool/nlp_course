@@ -1,0 +1,9 @@
+[project]
+name = "ysda-nlp-russian-translation"
+version = "0.1.0"
+description = "Unofficial Russian translation helper for YSDA NLP course"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+pdf = ["pymupdf>=1.25"]

@@ -75,3 +75,7 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+# Unofficial Russian translation artifacts
+.ysda-translation-cache.jsonl
+ПРОВЕРИТЬ_ПЕРЕВОД.txt

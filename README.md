@@ -1,3 +1,5 @@
+> **Русская версия:** [Программа и материалы на русском](./README.ru.md). Переводы README восьми недель находятся в соответствующих каталогах. Перевод ноутбуков и слайдов ещё не завершён.
+
 # YSDA Natural Language Processing course
 * This is the 2025 iteration of the course, materials are added as we prepare them.
 * Lecture and seminar materials for each week are in ./week* folders, see README.md for materials and instructions
