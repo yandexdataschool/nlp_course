@@ -2,6 +2,7 @@
 
 ### Materials
 - Lecture slides: [`./07_model_inference.pdf`](./07_model_inference.pdf)
+- Video (Russian): [lecture](https://disk.yandex.ru/i/Llk_cYTx2QXwQQ), [seminar](https://disk.yandex.ru/i/OkKWySb-FgmuGg)
 
 More to be added
 

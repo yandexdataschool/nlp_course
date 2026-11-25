@@ -2,6 +2,7 @@
 
 ### Materials
 - Lecture slides: [`./06_in_context_learning.pdf`](./06_in_context_learning.pdf)
+- Video (Russian): [lecture](https://disk.yandex.ru/i/BQNc37XGccTbXg), [seminar](https://disk.yandex.ru/i/u3HDJzlVY-pznA)
 
 More to be added
 

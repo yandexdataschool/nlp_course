@@ -2,7 +2,7 @@
 
 ### Materials
 - Lecture slides: [`./lecture.pdf`](./lecture.pdf)
-- Video (Russian): [lecture](https://disk.yandex.ru/i/Axjf2u-hWDLAMw), [seminar](https://disk.yandex.ru/i/I_rAisZlK22FLA)
+- Video (Russian, 2026): [lecture & practice](https://disk.yandex.ru/i/CdMX1TJv4axzQw)
 - From other courses (English): [EMNLP tutorial on PEFT](https://www.youtube.com/watch?v=KoOlcX3XLd4) (3.5h) | [MunichNLP short version](https://www.youtube.com/watch?v=StdrAJZsmw4) | [Hugging Face RLHF tutorial](https://www.youtube.com/watch?v=2MBJOuVq380)
 - Optional: [lecture on task-driven chatbots](https://disk.yandex.ru/i/4e_vqRDqwVGiFA) (Russian) | [lecture on conversation systems](https://disk.yandex.ru/i/XR1-8CghVOIK7A) (English)
 
